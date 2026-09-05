@@ -96,12 +96,12 @@
     "market_blend_weight": 0.28,
     "xg_calibration": 0.71,
     "draw_baseline": 0.6,
-    "draw_predictions": 19,
+    "draw_predictions": 20,
     "draw_hits": 7,
-    "total_predictions": 11,
+    "total_predictions": 12,
     "total_hits": 1,
     "avg_overround": 0.0,
-    "last_updated": "2026-09-03"
+    "last_updated": "2026-09-05"
   },
   "欧罗巴": {
     "base_goals": 1.35,
@@ -288,7 +288,7 @@
   "沙职": {
     "base_goals": 1.35,
     "home_adv_weight": 1.0,
-    "market_blend_weight": 0.23000000000000004,
+    "market_blend_weight": 0.18000000000000005,
     "xg_calibration": 1.0,
     "draw_baseline": 0.25,
     "draw_predictions": 0,
@@ -319,7 +319,7 @@
     "draw_baseline": 0.25,
     "draw_predictions": 0,
     "draw_hits": 0,
-    "total_predictions": 34,
+    "total_predictions": 35,
     "total_hits": 19,
     "avg_overround": 0.0,
     "last_updated": "2026-09-05"
@@ -371,8 +371,8 @@
     "draw_baseline": 0.25,
     "draw_predictions": 0,
     "draw_hits": 0,
-    "total_predictions": 14,
-    "total_hits": 8,
+    "total_predictions": 15,
+    "total_hits": 9,
     "avg_overround": 0.0,
     "last_updated": "2026-09-05"
   },
