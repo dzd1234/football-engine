@@ -9512,7 +9512,22 @@
       "recommended": false
     },
     "prob_band_5060": true,
-    "kelly_edge": -0.0798
+    "kelly_edge": -0.0798,
+    "pnl": 0.0,
+    "actual_result": "0-0",
+    "actual_home_score": 0,
+    "actual_away_score": 0,
+    "direction_correct": false,
+    "predicted_score": "0-1",
+    "score_correct": false,
+    "score_rank": 4,
+    "score_top3_hit": false,
+    "score_top5_hit": true,
+    "score_top8_hit": true,
+    "djyy_score_rank": 0,
+    "mc_score_rank": 4,
+    "market_signal_dir": "away",
+    "market_signal_hit": false
   },
   {
     "match_id": "2026-09-05_周六021",
@@ -9956,7 +9971,22 @@
     "play_ev": {
       "hafu": 0.2396
     },
-    "kelly_edge": -0.0488
+    "kelly_edge": -0.0488,
+    "pnl": 0.0,
+    "actual_result": "0-0",
+    "actual_home_score": 0,
+    "actual_away_score": 0,
+    "direction_correct": false,
+    "predicted_score": "0-2",
+    "score_correct": false,
+    "score_rank": 6,
+    "score_top3_hit": false,
+    "score_top5_hit": false,
+    "score_top8_hit": true,
+    "djyy_score_rank": 0,
+    "mc_score_rank": 6,
+    "market_signal_dir": "away",
+    "market_signal_hit": false
   },
   {
     "match_id": "2026-09-05_周六022",
@@ -10417,7 +10447,22 @@
       "best_edge": -0.0877,
       "recommended": false
     },
-    "kelly_edge": -0.0979
+    "kelly_edge": -0.0979,
+    "pnl": 0.0,
+    "actual_result": "3-2",
+    "actual_home_score": 3,
+    "actual_away_score": 2,
+    "direction_correct": true,
+    "predicted_score": "1-0",
+    "score_correct": false,
+    "score_rank": 0,
+    "score_top3_hit": false,
+    "score_top5_hit": false,
+    "score_top8_hit": false,
+    "djyy_score_rank": 0,
+    "mc_score_rank": 0,
+    "market_signal_dir": "home",
+    "market_signal_hit": true
   },
   {
     "match_id": "2026-09-05_周六023",
@@ -10902,7 +10947,22 @@
       "ttg": 0.148,
       "hafu": 0.2362
     },
-    "kelly_edge": -0.1996
+    "kelly_edge": -0.1996,
+    "pnl": 0.0,
+    "actual_result": "0-3",
+    "actual_home_score": 0,
+    "actual_away_score": 3,
+    "direction_correct": true,
+    "predicted_score": "0-1",
+    "score_correct": false,
+    "score_rank": 4,
+    "score_top3_hit": false,
+    "score_top5_hit": true,
+    "score_top8_hit": true,
+    "djyy_score_rank": 0,
+    "mc_score_rank": 4,
+    "market_signal_dir": "away",
+    "market_signal_hit": true
   },
   {
     "match_id": "2026-09-05_周六024",
@@ -11363,7 +11423,22 @@
       "best_edge": -0.0103,
       "recommended": false
     },
-    "kelly_edge": -0.1275
+    "kelly_edge": -0.1275,
+    "pnl": 0.0,
+    "actual_result": "2-1",
+    "actual_home_score": 2,
+    "actual_away_score": 1,
+    "direction_correct": false,
+    "predicted_score": "0-0",
+    "score_correct": false,
+    "score_rank": 8,
+    "score_top3_hit": false,
+    "score_top5_hit": false,
+    "score_top8_hit": true,
+    "djyy_score_rank": 0,
+    "mc_score_rank": 8,
+    "market_signal_dir": "away",
+    "market_signal_hit": false
   },
   {
     "match_id": "2026-09-05_周六025",
@@ -11824,7 +11899,22 @@
       "best_edge": -0.0719,
       "recommended": false
     },
-    "kelly_edge": -0.0789
+    "kelly_edge": -0.0789,
+    "pnl": 0.0,
+    "actual_result": "1-3",
+    "actual_home_score": 1,
+    "actual_away_score": 3,
+    "direction_correct": true,
+    "predicted_score": "0-0",
+    "score_correct": false,
+    "score_rank": 0,
+    "score_top3_hit": false,
+    "score_top5_hit": false,
+    "score_top8_hit": false,
+    "djyy_score_rank": 0,
+    "mc_score_rank": 0,
+    "market_signal_dir": "home",
+    "market_signal_hit": false
   },
   {
     "match_id": "2026-09-05_周六026",
@@ -12285,7 +12375,22 @@
       "best_edge": -0.0919,
       "recommended": false
     },
-    "kelly_edge": -0.0932
+    "kelly_edge": -0.0932,
+    "pnl": 0.0,
+    "actual_result": "2-1",
+    "actual_home_score": 2,
+    "actual_away_score": 1,
+    "direction_correct": true,
+    "predicted_score": "1-0",
+    "score_correct": false,
+    "score_rank": 7,
+    "score_top3_hit": false,
+    "score_top5_hit": false,
+    "score_top8_hit": true,
+    "djyy_score_rank": 0,
+    "mc_score_rank": 7,
+    "market_signal_dir": "home",
+    "market_signal_hit": true
   },
   {
     "match_id": "2026-09-05_周六027",
