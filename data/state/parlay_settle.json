@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-06T12:35:15.373857+00:00",
+  "generated_at": "2026-09-06T12:54:17.269120+00:00",
   "parlay": {
     "n_tickets": 70,
     "n_pending": 5,
@@ -7970,8 +7970,8 @@
         "date": "2026-09-06",
         "type": "比分2串1",
         "stake": 2.0,
-        "potential": 552.0,
-        "total_odds": 276.0,
+        "potential": 575.0,
+        "total_odds": 287.5,
         "odds_source": "official",
         "note": "待赛",
         "won": false,
@@ -7988,7 +7988,7 @@
             "away": "奥斯KFUM",
             "sel": null,
             "score": "1-0",
-            "odds": 12.0,
+            "odds": 12.5,
             "hit": null
           },
           {
@@ -8042,8 +8042,8 @@
         "date": "2026-09-06",
         "type": "比分2串1",
         "stake": 2.0,
-        "potential": 264.0,
-        "total_odds": 132.0,
+        "potential": 275.0,
+        "total_odds": 137.5,
         "odds_source": "official",
         "note": "待赛",
         "won": false,
@@ -8069,7 +8069,7 @@
             "away": "奥斯KFUM",
             "sel": null,
             "score": "1-0",
-            "odds": 12.0,
+            "odds": 12.5,
             "hit": null
           }
         ]
@@ -8078,8 +8078,8 @@
         "date": "2026-09-06",
         "type": "比分3串1",
         "stake": 2.0,
-        "potential": 6072.0,
-        "total_odds": 3036.0,
+        "potential": 6325.0,
+        "total_odds": 3162.5,
         "odds_source": "official",
         "note": "待赛",
         "won": false,
@@ -8106,7 +8106,7 @@
             "away": "奥斯KFUM",
             "sel": null,
             "score": "1-0",
-            "odds": 12.0,
+            "odds": 12.5,
             "hit": null
           },
           {
@@ -8124,8 +8124,8 @@
         "date": "2026-09-06",
         "type": "比分3串4(容错)",
         "stake": 8.0,
-        "potential": 7394.0,
-        "total_odds": 3036.0,
+        "potential": 7681.0,
+        "total_odds": 3162.5,
         "odds_source": "official",
         "note": "待赛",
         "won": false,
@@ -8152,7 +8152,7 @@
             "away": "奥斯KFUM",
             "sel": null,
             "score": "1-0",
-            "odds": 12.0,
+            "odds": 12.5,
             "hit": null
           },
           {
@@ -18048,8 +18048,8 @@
             "date": "2026-09-06",
             "type": "比分2串1",
             "stake": 2.0,
-            "potential": 552.0,
-            "total_odds": 276.0,
+            "potential": 575.0,
+            "total_odds": 287.5,
             "odds_source": "official",
             "note": "待赛",
             "won": false,
@@ -18066,7 +18066,7 @@
                 "away": "奥斯KFUM",
                 "sel": null,
                 "score": "1-0",
-                "odds": 12.0,
+                "odds": 12.5,
                 "hit": null
               },
               {
@@ -18120,8 +18120,8 @@
             "date": "2026-09-06",
             "type": "比分2串1",
             "stake": 2.0,
-            "potential": 264.0,
-            "total_odds": 132.0,
+            "potential": 275.0,
+            "total_odds": 137.5,
             "odds_source": "official",
             "note": "待赛",
             "won": false,
@@ -18147,7 +18147,7 @@
                 "away": "奥斯KFUM",
                 "sel": null,
                 "score": "1-0",
-                "odds": 12.0,
+                "odds": 12.5,
                 "hit": null
               }
             ]
@@ -18156,8 +18156,8 @@
             "date": "2026-09-06",
             "type": "比分3串1",
             "stake": 2.0,
-            "potential": 6072.0,
-            "total_odds": 3036.0,
+            "potential": 6325.0,
+            "total_odds": 3162.5,
             "odds_source": "official",
             "note": "待赛",
             "won": false,
@@ -18184,7 +18184,7 @@
                 "away": "奥斯KFUM",
                 "sel": null,
                 "score": "1-0",
-                "odds": 12.0,
+                "odds": 12.5,
                 "hit": null
               },
               {
@@ -18202,8 +18202,8 @@
             "date": "2026-09-06",
             "type": "比分3串4(容错)",
             "stake": 8.0,
-            "potential": 7394.0,
-            "total_odds": 3036.0,
+            "potential": 7681.0,
+            "total_odds": 3162.5,
             "odds_source": "official",
             "note": "待赛",
             "won": false,
@@ -18230,7 +18230,7 @@
                 "away": "奥斯KFUM",
                 "sel": null,
                 "score": "1-0",
-                "odds": 12.0,
+                "odds": 12.5,
                 "hit": null
               },
               {
