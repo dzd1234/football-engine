@@ -1,22 +1,22 @@
 {
-  "generated_at": "2026-09-06T20:04:37.936093+00:00",
+  "generated_at": "2026-09-06T22:07:44.494917+00:00",
   "parlay": {
     "n_tickets": 75,
-    "n_pending": 10,
-    "n_settled": 65,
+    "n_pending": 9,
+    "n_settled": 66,
     "n_won": 17,
-    "hit_rate": 0.2615,
-    "stake": 364.42,
+    "hit_rate": 0.2576,
+    "stake": 367.53,
     "stake_committed": 408.5,
-    "stake_pending": 44.08,
+    "stake_pending": 40.97,
     "return": 455.72,
-    "roi": 0.2505,
-    "avg_odds": 5.46,
+    "roi": 0.24,
+    "avg_odds": 5.44,
     "by_type": {
       "2串1": {
-        "n": 45,
+        "n": 46,
         "won": 11,
-        "roi": 0.3039
+        "roi": 0.2896
       },
       "3串1": {
         "n": 10,
@@ -2652,7 +2652,7 @@
         "pending": true,
         "leg_results": [
           null,
-          null
+          false
         ],
         "return": 0.0,
         "legs": [
@@ -2672,7 +2672,7 @@
             "sel": "home",
             "score": null,
             "odds": 2.1,
-            "hit": null
+            "hit": false
           }
         ]
       },
@@ -2683,12 +2683,12 @@
         "potential": 13.85,
         "total_odds": 4.45,
         "odds_source": null,
-        "note": "待赛",
+        "note": "两场全中才赢",
         "won": false,
-        "pending": true,
+        "pending": false,
         "leg_results": [
           true,
-          null
+          false
         ],
         "return": 0.0,
         "legs": [
@@ -2708,7 +2708,7 @@
             "sel": "home",
             "score": null,
             "odds": 2.1,
-            "hit": null
+            "hit": false
           }
         ]
       },
@@ -2725,7 +2725,7 @@
         "leg_results": [
           null,
           true,
-          null
+          false
         ],
         "return": 0.0,
         "legs": [
@@ -2754,7 +2754,7 @@
             "sel": "home",
             "score": null,
             "odds": 2.1,
-            "hit": null
+            "hit": false
           }
         ]
       },
@@ -2771,7 +2771,7 @@
         "leg_results": [
           null,
           true,
-          null
+          false
         ],
         "return": 0.0,
         "legs": [
@@ -2800,7 +2800,7 @@
             "sel": "home",
             "score": null,
             "odds": 2.1,
-            "hit": null
+            "hit": false
           }
         ]
       },
@@ -17811,17 +17811,23 @@
       "parlay": {
         "stats": {
           "n_tickets": 5,
-          "n_pending": 5,
-          "n_settled": 0,
+          "n_pending": 4,
+          "n_settled": 1,
           "n_won": 0,
-          "hit_rate": null,
-          "stake": 0,
+          "hit_rate": 0.0,
+          "stake": 3.11,
           "stake_committed": 22.04,
-          "stake_pending": 22.04,
-          "return": 0,
-          "roi": null,
-          "avg_odds": null,
-          "by_type": {}
+          "stake_pending": 18.93,
+          "return": 0.0,
+          "roi": -1.0,
+          "avg_odds": 4.45,
+          "by_type": {
+            "2串1": {
+              "n": 1,
+              "won": 0,
+              "roi": -1.0
+            }
+          }
         },
         "tickets": [
           {
@@ -17872,7 +17878,7 @@
             "pending": true,
             "leg_results": [
               null,
-              null
+              false
             ],
             "return": 0.0,
             "legs": [
@@ -17892,7 +17898,7 @@
                 "sel": "home",
                 "score": null,
                 "odds": 2.1,
-                "hit": null
+                "hit": false
               }
             ]
           },
@@ -17903,12 +17909,12 @@
             "potential": 13.85,
             "total_odds": 4.45,
             "odds_source": null,
-            "note": "待赛",
+            "note": "两场全中才赢",
             "won": false,
-            "pending": true,
+            "pending": false,
             "leg_results": [
               true,
-              null
+              false
             ],
             "return": 0.0,
             "legs": [
@@ -17928,7 +17934,7 @@
                 "sel": "home",
                 "score": null,
                 "odds": 2.1,
-                "hit": null
+                "hit": false
               }
             ]
           },
@@ -17945,7 +17951,7 @@
             "leg_results": [
               null,
               true,
-              null
+              false
             ],
             "return": 0.0,
             "legs": [
@@ -17974,7 +17980,7 @@
                 "sel": "home",
                 "score": null,
                 "odds": 2.1,
-                "hit": null
+                "hit": false
               }
             ]
           },
@@ -17991,7 +17997,7 @@
             "leg_results": [
               null,
               true,
-              null
+              false
             ],
             "return": 0.0,
             "legs": [
@@ -18020,7 +18026,7 @@
                 "sel": "home",
                 "score": null,
                 "odds": 2.1,
-                "hit": null
+                "hit": false
               }
             ]
           }
