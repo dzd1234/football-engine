@@ -277,7 +277,7 @@
           "away": "威尼斯",
           "league": "意甲",
           "score": "1-0",
-          "prob": 0.257,
+          "prob": 0.261,
           "cal_prob": 0.1016,
           "odds": 12.5
         },
@@ -287,7 +287,7 @@
           "away": "奥斯KFUM",
           "league": "挪超",
           "score": "1-0",
-          "prob": 0.219,
+          "prob": 0.223,
           "cal_prob": 0.1016,
           "odds": 11.5
         }
