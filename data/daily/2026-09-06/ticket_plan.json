@@ -259,7 +259,41 @@
       "source": "calibrated"
     }
   ],
-  "score_parlay": [],
+  "score_parlay": [
+    {
+      "type": "比分2串1",
+      "legs": [
+        {
+          "match": "2026-09-06_周日015",
+          "home": "莫尔德",
+          "away": "奥斯KFUM",
+          "league": "挪超",
+          "score": "1-0",
+          "prob": 0.222,
+          "cal_prob": 0.1016,
+          "odds": 11.5
+        },
+        {
+          "match": "2026-09-06_周日017",
+          "home": "法兰克福",
+          "away": "奥格斯堡",
+          "league": "德甲",
+          "score": "0-1",
+          "prob": 0.165,
+          "cal_prob": 0.0742,
+          "odds": 17.0
+        }
+      ],
+      "total_odds": 195.5,
+      "hit_prob": 0.0075,
+      "stake": 2.0,
+      "potential": 391.0,
+      "worst_win": 0.0,
+      "n_bets": 1,
+      "odds_source": "official",
+      "note": "两场比分都中才赢（校准命中 0.8% × 赔率 196 倍 = EV +47%）"
+    }
+  ],
   "parlay_calibration": {
     "overall": 0.5115,
     "n": 565,
