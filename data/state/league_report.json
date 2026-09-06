@@ -1,8 +1,8 @@
 {
   "n_leagues": 36,
-  "n_matches": 611,
+  "n_matches": 613,
   "external_added": 29,
-  "generated_at": "2026-09-06T17:58:54.054142",
+  "generated_at": "2026-09-06T18:39:16.009638",
   "leagues": [
     {
       "league": "挪超",
@@ -20,6 +20,23 @@
       "recent10_hits": 7,
       "recent10_hit_rate": 0.7,
       "recent10_roi": -0.027
+    },
+    {
+      "league": "西甲",
+      "n": 38,
+      "hit_rate": 0.5526,
+      "avg_odds": 1.812,
+      "roi": -0.0424,
+      "avg_confidence": 0.1712,
+      "verdict": "谨慎",
+      "recent_n": 5,
+      "recent_hits": 3,
+      "recent_hit_rate": 0.6,
+      "recent_roi": 0.016,
+      "recent10_n": 10,
+      "recent10_hits": 5,
+      "recent10_hit_rate": 0.5,
+      "recent10_roi": -0.136
     },
     {
       "league": "瑞典超",
@@ -54,23 +71,6 @@
       "recent10_hits": 3,
       "recent10_hit_rate": 0.3,
       "recent10_roi": -0.366
-    },
-    {
-      "league": "西甲",
-      "n": 36,
-      "hit_rate": 0.5556,
-      "avg_odds": 1.79,
-      "roi": -0.0481,
-      "avg_confidence": 0.1707,
-      "verdict": "谨慎",
-      "recent_n": 5,
-      "recent_hits": 2,
-      "recent_hit_rate": 0.4,
-      "recent_roi": -0.408,
-      "recent10_n": 10,
-      "recent10_hits": 5,
-      "recent10_hit_rate": 0.5,
-      "recent10_roi": -0.103
     },
     {
       "league": "欧冠",

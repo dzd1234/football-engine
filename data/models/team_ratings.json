@@ -2152,10 +2152,10 @@
     "rest_days": 3
   },
   "马拉加": {
-    "elo": 1325.1,
-    "attack": 0.3993,
-    "defense": 1.0516,
-    "form": -0.7238,
+    "elo": 1333.4,
+    "attack": 0.3604,
+    "defense": 0.9491,
+    "form": -0.5067,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -2256,10 +2256,10 @@
     "rest_days": 3
   },
   "莱万特": {
-    "elo": 1590.8,
-    "attack": 0.9079,
-    "defense": 1.0208,
-    "form": 0.2009,
+    "elo": 1582.5,
+    "attack": 0.8194,
+    "defense": 0.9213,
+    "form": 0.1406,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -3408,10 +3408,10 @@
     "rest_days": 3
   },
   "阿拉维斯": {
-    "elo": 1614.0,
-    "attack": 0.857,
-    "defense": 0.8567,
-    "form": 0.4472,
+    "elo": 1643.5,
+    "attack": 0.9494,
+    "defense": 0.8435,
+    "form": 0.613,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -5088,10 +5088,10 @@
     "rest_days": 3
   },
   "奥萨苏纳": {
-    "elo": 1575.0,
-    "attack": 0.7554,
-    "defense": 0.8357,
-    "form": 0.2299,
+    "elo": 1545.5,
+    "attack": 0.7521,
+    "defense": 0.9301,
+    "form": -0.1391,
     "injury": 0.0,
     "rest_days": 3
   },

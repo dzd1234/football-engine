@@ -18,10 +18,10 @@
           "sel": "draw",
           "odds": 3.1,
           "prob": 0.502,
-          "cal_prob": 0.518,
+          "cal_prob": 0.506,
           "market_prob": 0.286,
           "source": "fusion",
-          "hit_prob": 0.518
+          "hit_prob": 0.506
         },
         {
           "match": "2026-09-07_周一002",
@@ -31,23 +31,23 @@
           "sel": "home",
           "odds": 2.34,
           "prob": 0.403,
-          "cal_prob": 0.541,
+          "cal_prob": 0.548,
           "market_prob": 0.378,
           "source": "fusion",
-          "hit_prob": 0.541
+          "hit_prob": 0.548
         }
       ],
       "total_odds": 7.25,
       "model_ev": 0.94,
-      "cal_ev": 5.76,
-      "cal_roi": 1.0348,
+      "cal_ev": 5.48,
+      "cal_roi": 1.0096,
       "market_ev": -0.43,
       "market_roi": -0.215,
-      "hit_prob_cal": 0.281,
+      "hit_prob_cal": 0.277,
       "recommended": true,
-      "stake": 5.57,
+      "stake": 5.43,
       "n_bets": 1,
-      "potential": 40.4,
+      "potential": 39.39,
       "worst_win": 0.0,
       "note": "两场全中才赢",
       "source": "calibrated"
@@ -63,10 +63,10 @@
           "sel": "draw",
           "odds": 3.1,
           "prob": 0.502,
-          "cal_prob": 0.518,
+          "cal_prob": 0.506,
           "market_prob": 0.286,
           "source": "fusion",
-          "hit_prob": 0.518
+          "hit_prob": 0.506
         },
         {
           "match": "2026-09-07_周一008",
@@ -76,23 +76,23 @@
           "sel": "away",
           "odds": 2.16,
           "prob": 0.432,
-          "cal_prob": 0.541,
+          "cal_prob": 0.548,
           "market_prob": 0.41,
           "source": "fusion",
-          "hit_prob": 0.541
+          "hit_prob": 0.548
         }
       ],
       "total_odds": 6.7,
-      "model_ev": 0.9,
-      "cal_ev": 4.56,
-      "cal_roi": 0.8783,
+      "model_ev": 0.91,
+      "cal_ev": 4.32,
+      "cal_roi": 0.855,
       "market_ev": -0.43,
       "market_roi": -0.2151,
-      "hit_prob_cal": 0.281,
+      "hit_prob_cal": 0.277,
       "recommended": true,
-      "stake": 5.19,
+      "stake": 5.05,
       "n_bets": 1,
-      "potential": 34.75,
+      "potential": 33.81,
       "worst_win": 0.0,
       "note": "两场全中才赢",
       "source": "calibrated"
@@ -108,10 +108,10 @@
           "sel": "away",
           "odds": 2.16,
           "prob": 0.432,
-          "cal_prob": 0.541,
+          "cal_prob": 0.548,
           "market_prob": 0.41,
           "source": "fusion",
-          "hit_prob": 0.541
+          "hit_prob": 0.548
         },
         {
           "match": "2026-09-07_周一002",
@@ -121,23 +121,23 @@
           "sel": "home",
           "odds": 2.34,
           "prob": 0.403,
-          "cal_prob": 0.541,
+          "cal_prob": 0.548,
           "market_prob": 0.378,
           "source": "fusion",
-          "hit_prob": 0.541
+          "hit_prob": 0.548
         }
       ],
       "total_odds": 5.05,
       "model_ev": -0.24,
-      "cal_ev": 1.91,
-      "cal_roi": 0.4793,
+      "cal_ev": 2.21,
+      "cal_roi": 0.5156,
       "market_ev": -0.43,
       "market_roi": -0.2162,
-      "hit_prob_cal": 0.293,
+      "hit_prob_cal": 0.3,
       "recommended": true,
-      "stake": 3.98,
+      "stake": 4.28,
       "n_bets": 1,
-      "potential": 20.12,
+      "potential": 21.63,
       "worst_win": 0.0,
       "note": "两场全中才赢",
       "source": "calibrated"
@@ -153,10 +153,10 @@
           "sel": "draw",
           "odds": 3.1,
           "prob": 0.502,
-          "cal_prob": 0.518,
+          "cal_prob": 0.506,
           "market_prob": 0.286,
           "source": "fusion",
-          "hit_prob": 0.518
+          "hit_prob": 0.506
         },
         {
           "match": "2026-09-07_周一008",
@@ -166,10 +166,10 @@
           "sel": "away",
           "odds": 2.16,
           "prob": 0.432,
-          "cal_prob": 0.541,
+          "cal_prob": 0.548,
           "market_prob": 0.41,
           "source": "fusion",
-          "hit_prob": 0.541
+          "hit_prob": 0.548
         },
         {
           "match": "2026-09-07_周一002",
@@ -179,16 +179,16 @@
           "sel": "home",
           "odds": 2.34,
           "prob": 0.403,
-          "cal_prob": 0.541,
+          "cal_prob": 0.548,
           "market_prob": 0.378,
           "source": "fusion",
-          "hit_prob": 0.541
+          "hit_prob": 0.548
         }
       ],
       "total_odds": 15.67,
       "model_ev": 0.74,
       "cal_ev": 4.35,
-      "cal_roi": 1.3778,
+      "cal_roi": 1.377,
       "market_ev": -0.61,
       "market_roi": -0.3051,
       "hit_prob_cal": 0.152,
@@ -211,10 +211,10 @@
           "sel": "draw",
           "odds": 3.1,
           "prob": 0.502,
-          "cal_prob": 0.518,
+          "cal_prob": 0.506,
           "market_prob": 0.286,
           "source": "fusion",
-          "hit_prob": 0.518
+          "hit_prob": 0.506
         },
         {
           "match": "2026-09-07_周一008",
@@ -224,10 +224,10 @@
           "sel": "away",
           "odds": 2.16,
           "prob": 0.432,
-          "cal_prob": 0.541,
+          "cal_prob": 0.548,
           "market_prob": 0.41,
           "source": "fusion",
-          "hit_prob": 0.541
+          "hit_prob": 0.548
         },
         {
           "match": "2026-09-07_周一002",
@@ -237,23 +237,23 @@
           "sel": "home",
           "odds": 2.34,
           "prob": 0.403,
-          "cal_prob": 0.541,
+          "cal_prob": 0.548,
           "market_prob": 0.378,
           "source": "fusion",
-          "hit_prob": 0.541
+          "hit_prob": 0.548
         }
       ],
       "total_odds": 8.67,
       "model_ev": null,
-      "cal_ev": 3.9,
-      "cal_roi": 0.9426,
+      "cal_ev": 3.87,
+      "cal_roi": 0.9393,
       "market_ev": -1.9,
       "market_roi": -0.2378,
       "hit_prob_cal": 0.152,
       "recommended": true,
-      "stake": 4.14,
+      "stake": 4.12,
       "n_bets": 4,
-      "potential": 35.89,
+      "potential": 35.71,
       "worst_win": 10.11,
       "note": "容错：错 1 场仍中 1 注 2串1（回 ¥10），全中 ¥69",
       "source": "calibrated"
@@ -261,17 +261,17 @@
   ],
   "score_parlay": [],
   "parlay_calibration": {
-    "overall": 0.5115,
-    "n": 565,
+    "overall": 0.5146,
+    "n": 583,
     "table": {
-      "0.35": 0.4074,
-      "0.4": 0.541,
-      "0.45": 0.5041,
-      "0.5": 0.5185,
-      "0.55": 0.3778,
-      "0.6": 0.6552,
+      "0.35": 0.4091,
+      "0.4": 0.5476,
+      "0.45": 0.512,
+      "0.5": 0.5059,
+      "0.55": 0.383,
+      "0.6": 0.6452,
       "0.65": 0.7,
-      "0.7": 0.7576
+      "0.7": 0.7714
     },
     "note": "串关 EV 用账本校准命中率（模型概率高估，0.55-0.60 段仅 31.6% 命中）；推荐=校准EV>0"
   }
