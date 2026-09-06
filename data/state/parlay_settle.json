@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-06T18:39:16.086384+00:00",
+  "generated_at": "2026-09-06T20:04:37.936093+00:00",
   "parlay": {
     "n_tickets": 75,
     "n_pending": 10,
@@ -2807,8 +2807,8 @@
       {
         "date": "2026-09-07",
         "type": "2串1",
-        "stake": 5.43,
-        "potential": 39.39,
+        "stake": 5.39,
+        "potential": 39.1,
         "total_odds": 7.25,
         "odds_source": null,
         "note": "待赛",
@@ -2843,8 +2843,8 @@
       {
         "date": "2026-09-07",
         "type": "2串1",
-        "stake": 5.05,
-        "potential": 33.81,
+        "stake": 5.02,
+        "potential": 33.61,
         "total_odds": 6.7,
         "odds_source": null,
         "note": "待赛",
@@ -2879,8 +2879,8 @@
       {
         "date": "2026-09-07",
         "type": "2串1",
-        "stake": 4.28,
-        "potential": 21.63,
+        "stake": 4.35,
+        "potential": 21.99,
         "total_odds": 5.05,
         "odds_source": null,
         "note": "待赛",
@@ -18051,8 +18051,8 @@
           {
             "date": "2026-09-07",
             "type": "2串1",
-            "stake": 5.43,
-            "potential": 39.39,
+            "stake": 5.39,
+            "potential": 39.1,
             "total_odds": 7.25,
             "odds_source": null,
             "note": "待赛",
@@ -18087,8 +18087,8 @@
           {
             "date": "2026-09-07",
             "type": "2串1",
-            "stake": 5.05,
-            "potential": 33.81,
+            "stake": 5.02,
+            "potential": 33.61,
             "total_odds": 6.7,
             "odds_source": null,
             "note": "待赛",
@@ -18123,8 +18123,8 @@
           {
             "date": "2026-09-07",
             "type": "2串1",
-            "stake": 4.28,
-            "potential": 21.63,
+            "stake": 4.35,
+            "potential": 21.99,
             "total_odds": 5.05,
             "odds_source": null,
             "note": "待赛",
