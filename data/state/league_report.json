@@ -1,8 +1,8 @@
 {
   "n_leagues": 36,
-  "n_matches": 616,
+  "n_matches": 617,
   "external_added": 29,
-  "generated_at": "2026-09-06T22:54:08.189047",
+  "generated_at": "2026-09-07T01:01:37.589171",
   "leagues": [
     {
       "league": "挪超",
@@ -193,20 +193,20 @@
     },
     {
       "league": "巴甲",
-      "n": 26,
-      "hit_rate": 0.2692,
-      "avg_odds": 2.709,
-      "roi": -0.4042,
-      "avg_confidence": 0.227,
+      "n": 27,
+      "hit_rate": 0.2963,
+      "avg_odds": 2.733,
+      "roi": -0.3022,
+      "avg_confidence": 0.2235,
       "verdict": "谨慎",
       "recent_n": 5,
-      "recent_hits": 0,
-      "recent_hit_rate": 0.0,
-      "recent_roi": -1.0,
+      "recent_hits": 1,
+      "recent_hit_rate": 0.2,
+      "recent_roi": -0.33,
       "recent10_n": 10,
-      "recent10_hits": 0,
-      "recent10_hit_rate": 0.0,
-      "recent10_roi": -1.0
+      "recent10_hits": 1,
+      "recent10_hit_rate": 0.1,
+      "recent10_roi": -0.665
     },
     {
       "league": "英冠",
