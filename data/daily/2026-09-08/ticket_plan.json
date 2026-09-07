@@ -1,0 +1,212 @@
+{
+  "stable": [],
+  "value": [],
+  "lottery": [],
+  "total_stake": 0,
+  "expected_roi": 0.0,
+  "bankroll": 3673.2891,
+  "breaker_multiplier": 1.0,
+  "parlay": [],
+  "score_parlay": [
+    {
+      "type": "比分2串1",
+      "legs": [
+        {
+          "match": "2026-09-08_周二011",
+          "home": "波尔图",
+          "away": "曼城",
+          "league": "欧冠",
+          "score": "1-0",
+          "prob": 0.308,
+          "cal_prob": 0.0988,
+          "odds": 17.0
+        },
+        {
+          "match": "2026-09-08_周二008",
+          "home": "皇马",
+          "away": "国际米兰",
+          "league": "欧冠",
+          "score": "0-1",
+          "prob": 0.186,
+          "cal_prob": 0.0729,
+          "odds": 20.0
+        }
+      ],
+      "total_odds": 340.0,
+      "hit_prob": 0.0072,
+      "stake": 2.0,
+      "potential": 680.0,
+      "worst_win": 0.0,
+      "n_bets": 1,
+      "odds_source": "official",
+      "note": "两场比分都中才赢（校准命中 0.7% × 赔率 340 倍 = EV +145%）"
+    },
+    {
+      "type": "比分2串1",
+      "legs": [
+        {
+          "match": "2026-09-08_周二011",
+          "home": "波尔图",
+          "away": "曼城",
+          "league": "欧冠",
+          "score": "1-0",
+          "prob": 0.308,
+          "cal_prob": 0.0988,
+          "odds": 17.0
+        },
+        {
+          "match": "2026-09-08_周二009",
+          "home": "多特蒙德",
+          "away": "比利亚雷",
+          "league": "欧冠",
+          "score": "0-1",
+          "prob": 0.309,
+          "cal_prob": 0.0729,
+          "odds": 15.0
+        }
+      ],
+      "total_odds": 255.0,
+      "hit_prob": 0.0072,
+      "stake": 2.0,
+      "potential": 510.0,
+      "worst_win": 0.0,
+      "n_bets": 1,
+      "odds_source": "official",
+      "note": "两场比分都中才赢（校准命中 0.7% × 赔率 255 倍 = EV +84%）"
+    },
+    {
+      "type": "比分2串1",
+      "legs": [
+        {
+          "match": "2026-09-08_周二008",
+          "home": "皇马",
+          "away": "国际米兰",
+          "league": "欧冠",
+          "score": "0-1",
+          "prob": 0.186,
+          "cal_prob": 0.0729,
+          "odds": 20.0
+        },
+        {
+          "match": "2026-09-08_周二009",
+          "home": "多特蒙德",
+          "away": "比利亚雷",
+          "league": "欧冠",
+          "score": "0-1",
+          "prob": 0.309,
+          "cal_prob": 0.0729,
+          "odds": 15.0
+        }
+      ],
+      "total_odds": 300.0,
+      "hit_prob": 0.0053,
+      "stake": 2.0,
+      "potential": 600.0,
+      "worst_win": 0.0,
+      "n_bets": 1,
+      "odds_source": "official",
+      "note": "两场比分都中才赢（校准命中 0.5% × 赔率 300 倍 = EV +59%）"
+    },
+    {
+      "type": "比分3串1",
+      "legs": [
+        {
+          "match": "2026-09-08_周二011",
+          "home": "波尔图",
+          "away": "曼城",
+          "league": "欧冠",
+          "score": "1-0",
+          "prob": 0.308,
+          "cal_prob": 0.0988,
+          "odds": 17.0
+        },
+        {
+          "match": "2026-09-08_周二008",
+          "home": "皇马",
+          "away": "国际米兰",
+          "league": "欧冠",
+          "score": "0-1",
+          "prob": 0.186,
+          "cal_prob": 0.0729,
+          "odds": 20.0
+        },
+        {
+          "match": "2026-09-08_周二009",
+          "home": "多特蒙德",
+          "away": "比利亚雷",
+          "league": "欧冠",
+          "score": "0-1",
+          "prob": 0.309,
+          "cal_prob": 0.0729,
+          "odds": 15.0
+        }
+      ],
+      "total_odds": 5100.0,
+      "hit_prob": 0.0005,
+      "stake": 2.0,
+      "potential": 10200.0,
+      "worst_win": 0.0,
+      "n_bets": 1,
+      "odds_source": "official",
+      "note": "三场比分全中才赢（赔率 5100 倍，校准命中 0.05%）"
+    },
+    {
+      "type": "比分3串4(容错)",
+      "legs": [
+        {
+          "match": "2026-09-08_周二011",
+          "home": "波尔图",
+          "away": "曼城",
+          "league": "欧冠",
+          "score": "1-0",
+          "prob": 0.308,
+          "cal_prob": 0.0988,
+          "odds": 17.0
+        },
+        {
+          "match": "2026-09-08_周二008",
+          "home": "皇马",
+          "away": "国际米兰",
+          "league": "欧冠",
+          "score": "0-1",
+          "prob": 0.186,
+          "cal_prob": 0.0729,
+          "odds": 20.0
+        },
+        {
+          "match": "2026-09-08_周二009",
+          "home": "多特蒙德",
+          "away": "比利亚雷",
+          "league": "欧冠",
+          "score": "0-1",
+          "prob": 0.309,
+          "cal_prob": 0.0729,
+          "odds": 15.0
+        }
+      ],
+      "total_odds": 5100.0,
+      "hit_prob": 0.0005,
+      "stake": 8.0,
+      "potential": 11990.0,
+      "worst_win": 680.0,
+      "n_bets": 4,
+      "odds_source": "official",
+      "note": "3场出4注（3×2串1+1×3串1）错1场仍中1注2串1≈¥680，全中≈¥11990"
+    }
+  ],
+  "parlay_calibration": {
+    "overall": 0.5127,
+    "n": 589,
+    "table": {
+      "0.35": 0.4054,
+      "0.4": 0.5469,
+      "0.45": 0.5079,
+      "0.5": 0.5057,
+      "0.55": 0.383,
+      "0.6": 0.6452,
+      "0.65": 0.7,
+      "0.7": 0.7714
+    },
+    "note": "串关 EV 用账本校准命中率（模型概率高估，0.55-0.60 段仅 31.6% 命中）；推荐=校准EV>0"
+  }
+}
