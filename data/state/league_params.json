@@ -72,10 +72,10 @@
     "draw_baseline": 0.43,
     "draw_predictions": 2,
     "draw_hits": 0,
-    "total_predictions": 18,
-    "total_hits": 9,
+    "total_predictions": 20,
+    "total_hits": 10,
     "avg_overround": 0.0,
-    "last_updated": "2026-09-03"
+    "last_updated": "2026-09-07"
   },
   "美职联": {
     "base_goals": 1.35,
@@ -202,10 +202,10 @@
     "draw_baseline": 0.25,
     "draw_predictions": 4,
     "draw_hits": 0,
-    "total_predictions": 31,
+    "total_predictions": 32,
     "total_hits": 18,
     "avg_overround": 0.0,
-    "last_updated": "2026-09-06"
+    "last_updated": "2026-09-07"
   },
   "日乙": {
     "base_goals": 1.35,
@@ -293,10 +293,10 @@
     "draw_baseline": 0.25,
     "draw_predictions": 0,
     "draw_hits": 0,
-    "total_predictions": 20,
+    "total_predictions": 21,
     "total_hits": 15,
     "avg_overround": 0.0,
-    "last_updated": "2026-09-05"
+    "last_updated": "2026-09-07"
   },
   "英冠": {
     "base_goals": 1.35,
@@ -319,10 +319,10 @@
     "draw_baseline": 0.25,
     "draw_predictions": 0,
     "draw_hits": 0,
-    "total_predictions": 39,
-    "total_hits": 21,
+    "total_predictions": 41,
+    "total_hits": 22,
     "avg_overround": 0.0,
-    "last_updated": "2026-09-06"
+    "last_updated": "2026-09-07"
   },
   "美职": {
     "base_goals": 1.35,
@@ -397,10 +397,10 @@
     "draw_baseline": 0.25,
     "draw_predictions": 0,
     "draw_hits": 0,
-    "total_predictions": 28,
-    "total_hits": 18,
+    "total_predictions": 30,
+    "total_hits": 20,
     "avg_overround": 0.0,
-    "last_updated": "2026-09-06"
+    "last_updated": "2026-09-07"
   },
   "德超杯": {
     "base_goals": 1.35,
