@@ -6,53 +6,7 @@
   "expected_roi": 0.0,
   "bankroll": 3673.2891,
   "breaker_multiplier": 1.0,
-  "parlay": [
-    {
-      "type": "2串1",
-      "legs": [
-        {
-          "match": "2026-09-07_周一009",
-          "home": "维多利亚",
-          "away": "格雷米奥",
-          "league": "巴甲",
-          "sel": "draw",
-          "odds": 3.1,
-          "prob": 0.502,
-          "cal_prob": 0.506,
-          "market_prob": 0.286,
-          "source": "fusion",
-          "hit_prob": 0.506
-        },
-        {
-          "match": "2026-09-07_周一008",
-          "home": "埃尔切",
-          "away": "皇家社会",
-          "league": "西甲",
-          "sel": "away",
-          "odds": 2.1,
-          "prob": 0.443,
-          "cal_prob": 0.547,
-          "market_prob": 0.422,
-          "source": "fusion",
-          "hit_prob": 0.547
-        }
-      ],
-      "total_odds": 6.51,
-      "model_ev": 0.9,
-      "cal_ev": 10.58,
-      "cal_roi": 0.8005,
-      "market_ev": -0.43,
-      "market_roi": -0.2146,
-      "hit_prob_cal": 0.277,
-      "recommended": true,
-      "stake": 13.22,
-      "n_bets": 1,
-      "potential": 86.06,
-      "worst_win": 0.0,
-      "note": "两场全中才赢",
-      "source": "calibrated"
-    }
-  ],
+  "parlay": [],
   "score_parlay": [],
   "parlay_calibration": {
     "overall": 0.5127,

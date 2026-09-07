@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-09-07T02:29:14.131504+00:00",
+  "generated_at": "2026-09-07T06:07:09.191365+00:00",
   "parlay": {
-    "n_tickets": 71,
-    "n_pending": 1,
+    "n_tickets": 70,
+    "n_pending": 0,
     "n_settled": 70,
     "n_won": 19,
     "hit_rate": 0.2714,
     "stake": 386.46,
-    "stake_committed": 399.68,
-    "stake_pending": 13.22,
+    "stake_committed": 386.46,
+    "stake_pending": 0,
     "return": 504.16,
     "roi": 0.3046,
     "avg_odds": 5.67,
@@ -2801,42 +2801,6 @@
             "score": null,
             "odds": 2.1,
             "hit": false
-          }
-        ]
-      },
-      {
-        "date": "2026-09-07",
-        "type": "2串1",
-        "stake": 13.22,
-        "potential": 86.06,
-        "total_odds": 6.51,
-        "odds_source": null,
-        "note": "待赛",
-        "won": false,
-        "pending": true,
-        "leg_results": [
-          null,
-          null
-        ],
-        "return": 0.0,
-        "legs": [
-          {
-            "match": "2026-09-07_周一009",
-            "home": "维多利亚",
-            "away": "格雷米奥",
-            "sel": "draw",
-            "score": null,
-            "odds": 3.1,
-            "hit": null
-          },
-          {
-            "match": "2026-09-07_周一008",
-            "home": "埃尔切",
-            "away": "皇家社会",
-            "sel": "away",
-            "score": null,
-            "odds": 2.1,
-            "hit": null
           }
         ]
       }
@@ -17873,66 +17837,6 @@
                 "score": null,
                 "odds": 2.1,
                 "hit": false
-              }
-            ]
-          }
-        ]
-      },
-      "score_parlay": {
-        "stats": null,
-        "tickets": []
-      }
-    },
-    "2026-09-07": {
-      "parlay": {
-        "stats": {
-          "n_tickets": 1,
-          "n_pending": 1,
-          "n_settled": 0,
-          "n_won": 0,
-          "hit_rate": null,
-          "stake": 0,
-          "stake_committed": 13.22,
-          "stake_pending": 13.22,
-          "return": 0,
-          "roi": null,
-          "avg_odds": null,
-          "by_type": {}
-        },
-        "tickets": [
-          {
-            "date": "2026-09-07",
-            "type": "2串1",
-            "stake": 13.22,
-            "potential": 86.06,
-            "total_odds": 6.51,
-            "odds_source": null,
-            "note": "待赛",
-            "won": false,
-            "pending": true,
-            "leg_results": [
-              null,
-              null
-            ],
-            "return": 0.0,
-            "legs": [
-              {
-                "match": "2026-09-07_周一009",
-                "home": "维多利亚",
-                "away": "格雷米奥",
-                "sel": "draw",
-                "score": null,
-                "odds": 3.1,
-                "hit": null
-              },
-              {
-                "match": "2026-09-07_周一008",
-                "home": "埃尔切",
-                "away": "皇家社会",
-                "sel": "away",
-                "score": null,
-                "odds": 2.1,
-                "hit": null
               }
             ]
           }
