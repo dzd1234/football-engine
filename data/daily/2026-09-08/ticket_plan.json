@@ -17,7 +17,7 @@
           "away": "曼城",
           "league": "欧冠",
           "score": "1-0",
-          "prob": 0.308,
+          "prob": 0.307,
           "cal_prob": 0.0991,
           "odds": 17.0
         },
@@ -27,7 +27,7 @@
           "away": "国际米兰",
           "league": "欧冠",
           "score": "0-1",
-          "prob": 0.18,
+          "prob": 0.183,
           "cal_prob": 0.0727,
           "odds": 24.0
         }
@@ -50,7 +50,7 @@
           "away": "国际米兰",
           "league": "欧冠",
           "score": "0-1",
-          "prob": 0.18,
+          "prob": 0.183,
           "cal_prob": 0.0727,
           "odds": 24.0
         },
@@ -60,19 +60,19 @@
           "away": "比利亚雷",
           "league": "欧冠",
           "score": "0-1",
-          "prob": 0.303,
+          "prob": 0.308,
           "cal_prob": 0.0727,
-          "odds": 19.0
+          "odds": 20.0
         }
       ],
-      "total_odds": 456.0,
+      "total_odds": 480.0,
       "hit_prob": 0.0053,
       "stake": 2.0,
-      "potential": 912.0,
+      "potential": 960.0,
       "worst_win": 0.0,
       "n_bets": 1,
       "odds_source": "official",
-      "note": "两场比分都中才赢（校准命中 0.5% × 赔率 456 倍 = EV +141%）"
+      "note": "两场比分都中才赢（校准命中 0.5% × 赔率 480 倍 = EV +154%）"
     },
     {
       "type": "比分2串1",
@@ -83,7 +83,7 @@
           "away": "曼城",
           "league": "欧冠",
           "score": "1-0",
-          "prob": 0.308,
+          "prob": 0.307,
           "cal_prob": 0.0991,
           "odds": 17.0
         },
@@ -93,19 +93,19 @@
           "away": "比利亚雷",
           "league": "欧冠",
           "score": "0-1",
-          "prob": 0.303,
+          "prob": 0.308,
           "cal_prob": 0.0727,
-          "odds": 19.0
+          "odds": 20.0
         }
       ],
-      "total_odds": 323.0,
+      "total_odds": 340.0,
       "hit_prob": 0.0072,
       "stake": 2.0,
-      "potential": 646.0,
+      "potential": 680.0,
       "worst_win": 0.0,
       "n_bets": 1,
       "odds_source": "official",
-      "note": "两场比分都中才赢（校准命中 0.7% × 赔率 323 倍 = EV +133%）"
+      "note": "两场比分都中才赢（校准命中 0.7% × 赔率 340 倍 = EV +145%）"
     },
     {
       "type": "比分3串1",
@@ -116,7 +116,7 @@
           "away": "SBV精英",
           "league": "荷甲",
           "score": "1-0",
-          "prob": 0.179,
+          "prob": 0.178,
           "cal_prob": 0.0991,
           "odds": 11.0
         },
@@ -126,7 +126,7 @@
           "away": "吉达国民",
           "league": "沙职",
           "score": "1-0",
-          "prob": 0.185,
+          "prob": 0.182,
           "cal_prob": 0.0991,
           "odds": 12.0
         },
@@ -136,7 +136,7 @@
           "away": "曼城",
           "league": "欧冠",
           "score": "1-0",
-          "prob": 0.308,
+          "prob": 0.307,
           "cal_prob": 0.0991,
           "odds": 17.0
         }
@@ -159,7 +159,7 @@
           "away": "SBV精英",
           "league": "荷甲",
           "score": "1-0",
-          "prob": 0.179,
+          "prob": 0.178,
           "cal_prob": 0.0991,
           "odds": 11.0
         },
@@ -169,7 +169,7 @@
           "away": "吉达国民",
           "league": "沙职",
           "score": "1-0",
-          "prob": 0.185,
+          "prob": 0.182,
           "cal_prob": 0.0991,
           "odds": 12.0
         },
@@ -179,7 +179,7 @@
           "away": "曼城",
           "league": "欧冠",
           "score": "1-0",
-          "prob": 0.308,
+          "prob": 0.307,
           "cal_prob": 0.0991,
           "odds": 17.0
         }

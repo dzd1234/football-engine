@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-08T12:15:31.139329+00:00",
+  "generated_at": "2026-09-08T13:39:22.333125+00:00",
   "parlay": {
     "n_tickets": 75,
     "n_pending": 0,
@@ -8206,8 +8206,8 @@
         "date": "2026-09-08",
         "type": "比分2串1",
         "stake": 2.0,
-        "potential": 912.0,
-        "total_odds": 456.0,
+        "potential": 960.0,
+        "total_odds": 480.0,
         "odds_source": "official",
         "note": "待赛",
         "won": false,
@@ -8233,7 +8233,7 @@
             "away": "比利亚雷",
             "sel": null,
             "score": "0-1",
-            "odds": 19.0,
+            "odds": 20.0,
             "hit": null
           }
         ]
@@ -8242,8 +8242,8 @@
         "date": "2026-09-08",
         "type": "比分2串1",
         "stake": 2.0,
-        "potential": 646.0,
-        "total_odds": 323.0,
+        "potential": 680.0,
+        "total_odds": 340.0,
         "odds_source": "official",
         "note": "待赛",
         "won": false,
@@ -8269,7 +8269,7 @@
             "away": "比利亚雷",
             "sel": null,
             "score": "0-1",
-            "odds": 19.0,
+            "odds": 20.0,
             "hit": null
           }
         ]
@@ -18550,8 +18550,8 @@
             "date": "2026-09-08",
             "type": "比分2串1",
             "stake": 2.0,
-            "potential": 912.0,
-            "total_odds": 456.0,
+            "potential": 960.0,
+            "total_odds": 480.0,
             "odds_source": "official",
             "note": "待赛",
             "won": false,
@@ -18577,7 +18577,7 @@
                 "away": "比利亚雷",
                 "sel": null,
                 "score": "0-1",
-                "odds": 19.0,
+                "odds": 20.0,
                 "hit": null
               }
             ]
@@ -18586,8 +18586,8 @@
             "date": "2026-09-08",
             "type": "比分2串1",
             "stake": 2.0,
-            "potential": 646.0,
-            "total_odds": 323.0,
+            "potential": 680.0,
+            "total_odds": 340.0,
             "odds_source": "official",
             "note": "待赛",
             "won": false,
@@ -18613,7 +18613,7 @@
                 "away": "比利亚雷",
                 "sel": null,
                 "score": "0-1",
-                "odds": 19.0,
+                "odds": 20.0,
                 "hit": null
               }
             ]
