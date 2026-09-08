@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-08T09:07:01.179466+00:00",
+  "generated_at": "2026-09-08T12:15:31.139329+00:00",
   "parlay": {
     "n_tickets": 75,
     "n_pending": 0,
@@ -8170,8 +8170,8 @@
         "date": "2026-09-08",
         "type": "比分2串1",
         "stake": 2.0,
-        "potential": 748.0,
-        "total_odds": 374.0,
+        "potential": 816.0,
+        "total_odds": 408.0,
         "odds_source": "official",
         "note": "待赛",
         "won": false,
@@ -8197,7 +8197,7 @@
             "away": "国际米兰",
             "sel": null,
             "score": "0-1",
-            "odds": 22.0,
+            "odds": 24.0,
             "hit": null
           }
         ]
@@ -8206,8 +8206,8 @@
         "date": "2026-09-08",
         "type": "比分2串1",
         "stake": 2.0,
-        "potential": 510.0,
-        "total_odds": 255.0,
+        "potential": 912.0,
+        "total_odds": 456.0,
         "odds_source": "official",
         "note": "待赛",
         "won": false,
@@ -8219,14 +8219,41 @@
         "return": 0.0,
         "legs": [
           {
-            "match": "2026-09-08_周二001",
-            "home": "蔚山现代",
-            "away": "首尔FC",
+            "match": "2026-09-08_周二008",
+            "home": "皇马",
+            "away": "国际米兰",
             "sel": null,
-            "score": "1-0",
-            "odds": 15.0,
+            "score": "0-1",
+            "odds": 24.0,
             "hit": null
           },
+          {
+            "match": "2026-09-08_周二009",
+            "home": "多特蒙德",
+            "away": "比利亚雷",
+            "sel": null,
+            "score": "0-1",
+            "odds": 19.0,
+            "hit": null
+          }
+        ]
+      },
+      {
+        "date": "2026-09-08",
+        "type": "比分2串1",
+        "stake": 2.0,
+        "potential": 646.0,
+        "total_odds": 323.0,
+        "odds_source": "official",
+        "note": "待赛",
+        "won": false,
+        "pending": true,
+        "leg_results": [
+          null,
+          null
+        ],
+        "return": 0.0,
+        "legs": [
           {
             "match": "2026-09-08_周二011",
             "home": "波尔图",
@@ -8235,41 +8262,14 @@
             "score": "1-0",
             "odds": 17.0,
             "hit": null
-          }
-        ]
-      },
-      {
-        "date": "2026-09-08",
-        "type": "比分2串1",
-        "stake": 2.0,
-        "potential": 660.0,
-        "total_odds": 330.0,
-        "odds_source": "official",
-        "note": "待赛",
-        "won": false,
-        "pending": true,
-        "leg_results": [
-          null,
-          null
-        ],
-        "return": 0.0,
-        "legs": [
-          {
-            "match": "2026-09-08_周二001",
-            "home": "蔚山现代",
-            "away": "首尔FC",
-            "sel": null,
-            "score": "1-0",
-            "odds": 15.0,
-            "hit": null
           },
           {
-            "match": "2026-09-08_周二008",
-            "home": "皇马",
-            "away": "国际米兰",
+            "match": "2026-09-08_周二009",
+            "home": "多特蒙德",
+            "away": "比利亚雷",
             "sel": null,
             "score": "0-1",
-            "odds": 22.0,
+            "odds": 19.0,
             "hit": null
           }
         ]
@@ -8278,8 +8278,8 @@
         "date": "2026-09-08",
         "type": "比分3串1",
         "stake": 2.0,
-        "potential": 4290.0,
-        "total_odds": 2145.0,
+        "potential": 4488.0,
+        "total_odds": 2244.0,
         "odds_source": "official",
         "note": "待赛",
         "won": false,
@@ -8291,15 +8291,6 @@
         ],
         "return": 0.0,
         "legs": [
-          {
-            "match": "2026-09-08_周二001",
-            "home": "蔚山现代",
-            "away": "首尔FC",
-            "sel": null,
-            "score": "1-0",
-            "odds": 15.0,
-            "hit": null
-          },
           {
             "match": "2026-09-08_周二004",
             "home": "奈梅亨",
@@ -8315,7 +8306,16 @@
             "away": "吉达国民",
             "sel": null,
             "score": "1-0",
-            "odds": 13.0,
+            "odds": 12.0,
+            "hit": null
+          },
+          {
+            "match": "2026-09-08_周二011",
+            "home": "波尔图",
+            "away": "曼城",
+            "sel": null,
+            "score": "1-0",
+            "odds": 17.0,
             "hit": null
           }
         ]
@@ -8324,8 +8324,8 @@
         "date": "2026-09-08",
         "type": "比分3串4(容错)",
         "stake": 8.0,
-        "potential": 5296.0,
-        "total_odds": 2145.0,
+        "potential": 5534.0,
+        "total_odds": 2244.0,
         "odds_source": "official",
         "note": "待赛",
         "won": false,
@@ -8337,15 +8337,6 @@
         ],
         "return": 0.0,
         "legs": [
-          {
-            "match": "2026-09-08_周二001",
-            "home": "蔚山现代",
-            "away": "首尔FC",
-            "sel": null,
-            "score": "1-0",
-            "odds": 15.0,
-            "hit": null
-          },
           {
             "match": "2026-09-08_周二004",
             "home": "奈梅亨",
@@ -8361,7 +8352,16 @@
             "away": "吉达国民",
             "sel": null,
             "score": "1-0",
-            "odds": 13.0,
+            "odds": 12.0,
+            "hit": null
+          },
+          {
+            "match": "2026-09-08_周二011",
+            "home": "波尔图",
+            "away": "曼城",
+            "sel": null,
+            "score": "1-0",
+            "odds": 17.0,
             "hit": null
           }
         ]
@@ -18514,8 +18514,8 @@
             "date": "2026-09-08",
             "type": "比分2串1",
             "stake": 2.0,
-            "potential": 748.0,
-            "total_odds": 374.0,
+            "potential": 816.0,
+            "total_odds": 408.0,
             "odds_source": "official",
             "note": "待赛",
             "won": false,
@@ -18541,7 +18541,7 @@
                 "away": "国际米兰",
                 "sel": null,
                 "score": "0-1",
-                "odds": 22.0,
+                "odds": 24.0,
                 "hit": null
               }
             ]
@@ -18550,8 +18550,8 @@
             "date": "2026-09-08",
             "type": "比分2串1",
             "stake": 2.0,
-            "potential": 510.0,
-            "total_odds": 255.0,
+            "potential": 912.0,
+            "total_odds": 456.0,
             "odds_source": "official",
             "note": "待赛",
             "won": false,
@@ -18563,14 +18563,41 @@
             "return": 0.0,
             "legs": [
               {
-                "match": "2026-09-08_周二001",
-                "home": "蔚山现代",
-                "away": "首尔FC",
+                "match": "2026-09-08_周二008",
+                "home": "皇马",
+                "away": "国际米兰",
                 "sel": null,
-                "score": "1-0",
-                "odds": 15.0,
+                "score": "0-1",
+                "odds": 24.0,
                 "hit": null
               },
+              {
+                "match": "2026-09-08_周二009",
+                "home": "多特蒙德",
+                "away": "比利亚雷",
+                "sel": null,
+                "score": "0-1",
+                "odds": 19.0,
+                "hit": null
+              }
+            ]
+          },
+          {
+            "date": "2026-09-08",
+            "type": "比分2串1",
+            "stake": 2.0,
+            "potential": 646.0,
+            "total_odds": 323.0,
+            "odds_source": "official",
+            "note": "待赛",
+            "won": false,
+            "pending": true,
+            "leg_results": [
+              null,
+              null
+            ],
+            "return": 0.0,
+            "legs": [
               {
                 "match": "2026-09-08_周二011",
                 "home": "波尔图",
@@ -18579,41 +18606,14 @@
                 "score": "1-0",
                 "odds": 17.0,
                 "hit": null
-              }
-            ]
-          },
-          {
-            "date": "2026-09-08",
-            "type": "比分2串1",
-            "stake": 2.0,
-            "potential": 660.0,
-            "total_odds": 330.0,
-            "odds_source": "official",
-            "note": "待赛",
-            "won": false,
-            "pending": true,
-            "leg_results": [
-              null,
-              null
-            ],
-            "return": 0.0,
-            "legs": [
-              {
-                "match": "2026-09-08_周二001",
-                "home": "蔚山现代",
-                "away": "首尔FC",
-                "sel": null,
-                "score": "1-0",
-                "odds": 15.0,
-                "hit": null
               },
               {
-                "match": "2026-09-08_周二008",
-                "home": "皇马",
-                "away": "国际米兰",
+                "match": "2026-09-08_周二009",
+                "home": "多特蒙德",
+                "away": "比利亚雷",
                 "sel": null,
                 "score": "0-1",
-                "odds": 22.0,
+                "odds": 19.0,
                 "hit": null
               }
             ]
@@ -18622,8 +18622,8 @@
             "date": "2026-09-08",
             "type": "比分3串1",
             "stake": 2.0,
-            "potential": 4290.0,
-            "total_odds": 2145.0,
+            "potential": 4488.0,
+            "total_odds": 2244.0,
             "odds_source": "official",
             "note": "待赛",
             "won": false,
@@ -18635,15 +18635,6 @@
             ],
             "return": 0.0,
             "legs": [
-              {
-                "match": "2026-09-08_周二001",
-                "home": "蔚山现代",
-                "away": "首尔FC",
-                "sel": null,
-                "score": "1-0",
-                "odds": 15.0,
-                "hit": null
-              },
               {
                 "match": "2026-09-08_周二004",
                 "home": "奈梅亨",
@@ -18659,7 +18650,16 @@
                 "away": "吉达国民",
                 "sel": null,
                 "score": "1-0",
-                "odds": 13.0,
+                "odds": 12.0,
+                "hit": null
+              },
+              {
+                "match": "2026-09-08_周二011",
+                "home": "波尔图",
+                "away": "曼城",
+                "sel": null,
+                "score": "1-0",
+                "odds": 17.0,
                 "hit": null
               }
             ]
@@ -18668,8 +18668,8 @@
             "date": "2026-09-08",
             "type": "比分3串4(容错)",
             "stake": 8.0,
-            "potential": 5296.0,
-            "total_odds": 2145.0,
+            "potential": 5534.0,
+            "total_odds": 2244.0,
             "odds_source": "official",
             "note": "待赛",
             "won": false,
@@ -18681,15 +18681,6 @@
             ],
             "return": 0.0,
             "legs": [
-              {
-                "match": "2026-09-08_周二001",
-                "home": "蔚山现代",
-                "away": "首尔FC",
-                "sel": null,
-                "score": "1-0",
-                "odds": 15.0,
-                "hit": null
-              },
               {
                 "match": "2026-09-08_周二004",
                 "home": "奈梅亨",
@@ -18705,7 +18696,16 @@
                 "away": "吉达国民",
                 "sel": null,
                 "score": "1-0",
-                "odds": 13.0,
+                "odds": 12.0,
+                "hit": null
+              },
+              {
+                "match": "2026-09-08_周二011",
+                "home": "波尔图",
+                "away": "曼城",
+                "sel": null,
+                "score": "1-0",
+                "odds": 17.0,
                 "hit": null
               }
             ]
