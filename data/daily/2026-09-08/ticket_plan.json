@@ -17,7 +17,7 @@
           "away": "曼城",
           "league": "欧冠",
           "score": "1-0",
-          "prob": 0.308,
+          "prob": 0.313,
           "cal_prob": 0.0991,
           "odds": 17.0
         },
@@ -27,7 +27,7 @@
           "away": "国际米兰",
           "league": "欧冠",
           "score": "0-1",
-          "prob": 0.183,
+          "prob": 0.184,
           "cal_prob": 0.0727,
           "odds": 22.0
         }
@@ -50,7 +50,7 @@
           "away": "首尔FC",
           "league": "K1联赛",
           "score": "1-0",
-          "prob": 0.312,
+          "prob": 0.313,
           "cal_prob": 0.0991,
           "odds": 15.0
         },
@@ -60,7 +60,7 @@
           "away": "曼城",
           "league": "欧冠",
           "score": "1-0",
-          "prob": 0.308,
+          "prob": 0.313,
           "cal_prob": 0.0991,
           "odds": 17.0
         }
@@ -83,7 +83,7 @@
           "away": "首尔FC",
           "league": "K1联赛",
           "score": "1-0",
-          "prob": 0.312,
+          "prob": 0.313,
           "cal_prob": 0.0991,
           "odds": 15.0
         },
@@ -93,7 +93,7 @@
           "away": "国际米兰",
           "league": "欧冠",
           "score": "0-1",
-          "prob": 0.183,
+          "prob": 0.184,
           "cal_prob": 0.0727,
           "odds": 22.0
         }
@@ -116,7 +116,7 @@
           "away": "首尔FC",
           "league": "K1联赛",
           "score": "1-0",
-          "prob": 0.312,
+          "prob": 0.313,
           "cal_prob": 0.0991,
           "odds": 15.0
         },
@@ -126,7 +126,7 @@
           "away": "SBV精英",
           "league": "荷甲",
           "score": "1-0",
-          "prob": 0.18,
+          "prob": 0.179,
           "cal_prob": 0.0991,
           "odds": 11.0
         },
@@ -136,7 +136,7 @@
           "away": "吉达国民",
           "league": "沙职",
           "score": "1-0",
-          "prob": 0.189,
+          "prob": 0.185,
           "cal_prob": 0.0991,
           "odds": 13.0
         }
@@ -159,7 +159,7 @@
           "away": "首尔FC",
           "league": "K1联赛",
           "score": "1-0",
-          "prob": 0.312,
+          "prob": 0.313,
           "cal_prob": 0.0991,
           "odds": 15.0
         },
@@ -169,7 +169,7 @@
           "away": "SBV精英",
           "league": "荷甲",
           "score": "1-0",
-          "prob": 0.18,
+          "prob": 0.179,
           "cal_prob": 0.0991,
           "odds": 11.0
         },
@@ -179,7 +179,7 @@
           "away": "吉达国民",
           "league": "沙职",
           "score": "1-0",
-          "prob": 0.189,
+          "prob": 0.185,
           "cal_prob": 0.0991,
           "odds": 13.0
         }
