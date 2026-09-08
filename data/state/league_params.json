@@ -15,15 +15,15 @@
   "欧冠": {
     "base_goals": 1.4,
     "home_adv_weight": 0.9,
-    "market_blend_weight": 0.32,
+    "market_blend_weight": 0.27,
     "xg_calibration": 0.82,
     "draw_baseline": 0.17,
     "draw_predictions": 0,
     "draw_hits": 0,
-    "total_predictions": 26,
-    "total_hits": 15,
+    "total_predictions": 28,
+    "total_hits": 17,
     "avg_overround": 0.0,
-    "last_updated": "2026-08-26"
+    "last_updated": "2026-09-08"
   },
   "巴西杯": {
     "base_goals": 1.35,
@@ -150,10 +150,10 @@
     "draw_baseline": 0.25,
     "draw_predictions": 0,
     "draw_hits": 0,
-    "total_predictions": 31,
+    "total_predictions": 32,
     "total_hits": 21,
     "avg_overround": 0.0,
-    "last_updated": "2026-09-06"
+    "last_updated": "2026-09-08"
   },
   "荷乙": {
     "base_goals": 1.35,
