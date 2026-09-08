@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-09-08T22:02:45.445225+00:00",
+  "generated_at": "2026-09-08T22:59:36.281007+00:00",
   "parlay": {
-    "n_tickets": 75,
-    "n_pending": 0,
+    "n_tickets": 76,
+    "n_pending": 1,
     "n_settled": 75,
     "n_won": 19,
     "hit_rate": 0.2533,
     "stake": 408.49,
-    "stake_committed": 408.49,
-    "stake_pending": 0,
+    "stake_committed": 421.71,
+    "stake_pending": 13.22,
     "return": 504.16,
     "roi": 0.2342,
     "avg_odds": 5.93,
@@ -3001,6 +3001,42 @@
             "score": null,
             "odds": 2.6,
             "hit": true
+          }
+        ]
+      },
+      {
+        "date": "2026-09-09",
+        "type": "2串1",
+        "stake": 13.22,
+        "potential": 32.38,
+        "total_odds": 2.45,
+        "odds_source": null,
+        "note": "待赛",
+        "won": false,
+        "pending": true,
+        "leg_results": [
+          null,
+          null
+        ],
+        "return": 0.0,
+        "legs": [
+          {
+            "match": "2026-09-09_周三005",
+            "home": "特温特",
+            "away": "特尔斯达",
+            "sel": "home",
+            "score": null,
+            "odds": 1.56,
+            "hit": null
+          },
+          {
+            "match": "2026-09-09_周三003",
+            "home": "巴萨",
+            "away": "费耶诺德",
+            "sel": "home",
+            "score": null,
+            "odds": 1.57,
+            "hit": null
           }
         ]
       }
@@ -18931,8 +18967,58 @@
     },
     "2026-09-09": {
       "parlay": {
-        "stats": null,
-        "tickets": []
+        "stats": {
+          "n_tickets": 1,
+          "n_pending": 1,
+          "n_settled": 0,
+          "n_won": 0,
+          "hit_rate": null,
+          "stake": 0,
+          "stake_committed": 13.22,
+          "stake_pending": 13.22,
+          "return": 0,
+          "roi": null,
+          "avg_odds": null,
+          "by_type": {}
+        },
+        "tickets": [
+          {
+            "date": "2026-09-09",
+            "type": "2串1",
+            "stake": 13.22,
+            "potential": 32.38,
+            "total_odds": 2.45,
+            "odds_source": null,
+            "note": "待赛",
+            "won": false,
+            "pending": true,
+            "leg_results": [
+              null,
+              null
+            ],
+            "return": 0.0,
+            "legs": [
+              {
+                "match": "2026-09-09_周三005",
+                "home": "特温特",
+                "away": "特尔斯达",
+                "sel": "home",
+                "score": null,
+                "odds": 1.56,
+                "hit": null
+              },
+              {
+                "match": "2026-09-09_周三003",
+                "home": "巴萨",
+                "away": "费耶诺德",
+                "sel": "home",
+                "score": null,
+                "odds": 1.57,
+                "hit": null
+              }
+            ]
+          }
+        ]
       },
       "score_parlay": {
         "stats": {

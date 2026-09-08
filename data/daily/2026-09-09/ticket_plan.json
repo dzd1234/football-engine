@@ -6,7 +6,53 @@
   "expected_roi": 0.0,
   "bankroll": 3673.2891,
   "breaker_multiplier": 1.0,
-  "parlay": [],
+  "parlay": [
+    {
+      "type": "2串1",
+      "legs": [
+        {
+          "match": "2026-09-09_周三005",
+          "home": "特温特",
+          "away": "特尔斯达",
+          "league": "荷甲",
+          "sel": "home",
+          "odds": 1.56,
+          "prob": 0.609,
+          "cal_prob": 0.676,
+          "market_prob": 0.609,
+          "source": "fusion",
+          "hit_prob": 0.676
+        },
+        {
+          "match": "2026-09-09_周三003",
+          "home": "巴萨",
+          "away": "费耶诺德",
+          "league": "欧冠",
+          "sel": "home",
+          "odds": 1.57,
+          "prob": 0.608,
+          "cal_prob": 0.676,
+          "market_prob": 0.608,
+          "source": "fusion",
+          "hit_prob": 0.676
+        }
+      ],
+      "total_odds": 2.45,
+      "model_ev": -0.19,
+      "cal_ev": 1.6,
+      "cal_roi": 0.1209,
+      "market_ev": -0.19,
+      "market_roi": -0.093,
+      "hit_prob_cal": 0.458,
+      "recommended": true,
+      "stake": 13.22,
+      "n_bets": 1,
+      "potential": 32.38,
+      "worst_win": 0.0,
+      "note": "两场全中才赢",
+      "source": "calibrated"
+    }
+  ],
   "score_parlay": [
     {
       "type": "比分2串1",
@@ -18,7 +64,7 @@
           "league": "欧冠",
           "score": "1-0",
           "prob": 0.225,
-          "cal_prob": 0.0999,
+          "cal_prob": 0.1002,
           "odds": 18.0
         },
         {
@@ -27,8 +73,8 @@
           "away": "维京",
           "league": "欧冠",
           "score": "0-1",
-          "prob": 0.234,
-          "cal_prob": 0.0723,
+          "prob": 0.237,
+          "cal_prob": 0.072,
           "odds": 45.0
         }
       ],
@@ -39,7 +85,7 @@
       "worst_win": 0.0,
       "n_bets": 1,
       "odds_source": "official",
-      "note": "两场比分都中才赢（校准命中 0.7% × 赔率 810 倍 = EV +485%）"
+      "note": "两场比分都中才赢（校准命中 0.7% × 赔率 810 倍 = EV +484%）"
     },
     {
       "type": "比分2串1",
@@ -50,8 +96,8 @@
           "away": "布拉迪斯拉发",
           "league": "欧冠",
           "score": "1-0",
-          "prob": 0.246,
-          "cal_prob": 0.0999,
+          "prob": 0.241,
+          "cal_prob": 0.1002,
           "odds": 17.0
         },
         {
@@ -60,8 +106,8 @@
           "away": "维京",
           "league": "欧冠",
           "score": "0-1",
-          "prob": 0.234,
-          "cal_prob": 0.0723,
+          "prob": 0.237,
+          "cal_prob": 0.072,
           "odds": 45.0
         }
       ],
@@ -72,7 +118,7 @@
       "worst_win": 0.0,
       "n_bets": 1,
       "odds_source": "official",
-      "note": "两场比分都中才赢（校准命中 0.7% × 赔率 765 倍 = EV +453%）"
+      "note": "两场比分都中才赢（校准命中 0.7% × 赔率 765 倍 = EV +452%）"
     },
     {
       "type": "比分2串1",
@@ -84,7 +130,7 @@
           "league": "荷甲",
           "score": "1-0",
           "prob": 0.268,
-          "cal_prob": 0.0999,
+          "cal_prob": 0.1002,
           "odds": 12.0
         },
         {
@@ -93,8 +139,8 @@
           "away": "维京",
           "league": "欧冠",
           "score": "0-1",
-          "prob": 0.234,
-          "cal_prob": 0.0723,
+          "prob": 0.237,
+          "cal_prob": 0.072,
           "odds": 45.0
         }
       ],
@@ -117,7 +163,7 @@
           "league": "欧冠",
           "score": "1-0",
           "prob": 0.225,
-          "cal_prob": 0.0999,
+          "cal_prob": 0.1002,
           "odds": 18.0
         },
         {
@@ -127,7 +173,7 @@
           "league": "荷甲",
           "score": "1-0",
           "prob": 0.268,
-          "cal_prob": 0.0999,
+          "cal_prob": 0.1002,
           "odds": 12.0
         },
         {
@@ -136,8 +182,8 @@
           "away": "布拉迪斯拉发",
           "league": "欧冠",
           "score": "1-0",
-          "prob": 0.246,
-          "cal_prob": 0.0999,
+          "prob": 0.241,
+          "cal_prob": 0.1002,
           "odds": 17.0
         }
       ],
@@ -160,7 +206,7 @@
           "league": "欧冠",
           "score": "1-0",
           "prob": 0.225,
-          "cal_prob": 0.0999,
+          "cal_prob": 0.1002,
           "odds": 18.0
         },
         {
@@ -170,7 +216,7 @@
           "league": "荷甲",
           "score": "1-0",
           "prob": 0.268,
-          "cal_prob": 0.0999,
+          "cal_prob": 0.1002,
           "odds": 12.0
         },
         {
@@ -179,8 +225,8 @@
           "away": "布拉迪斯拉发",
           "league": "欧冠",
           "score": "1-0",
-          "prob": 0.246,
-          "cal_prob": 0.0999,
+          "prob": 0.241,
+          "cal_prob": 0.1002,
           "odds": 17.0
         }
       ],
@@ -195,15 +241,15 @@
     }
   ],
   "parlay_calibration": {
-    "overall": 0.5124,
-    "n": 603,
+    "overall": 0.5156,
+    "n": 609,
     "table": {
       "0.35": 0.4123,
       "0.4": 0.5426,
-      "0.45": 0.5154,
-      "0.5": 0.4944,
-      "0.55": 0.3878,
-      "0.6": 0.6562,
+      "0.45": 0.5115,
+      "0.5": 0.5055,
+      "0.55": 0.4,
+      "0.6": 0.6765,
       "0.65": 0.7,
       "0.7": 0.75
     },
