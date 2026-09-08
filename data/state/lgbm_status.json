@@ -1,13 +1,13 @@
 {
   "trained": false,
   "ready": false,
-  "clean_n": 172,
-  "usable_rows": 172,
+  "clean_n": 173,
+  "usable_rows": 173,
   "holdout_n": 0,
   "holdout_brier_lgbm": null,
   "holdout_brier_fusion": null,
   "delta": null,
   "t": null,
-  "reason": "洁净可用样本 172 < 500，按 ~15 场/天约 22 天后达标",
+  "reason": "洁净可用样本 173 < 500，按 ~15 场/天约 22 天后达标",
   "trained_at": null
 }

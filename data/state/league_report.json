@@ -1,8 +1,8 @@
 {
   "n_leagues": 36,
-  "n_matches": 626,
+  "n_matches": 627,
   "external_added": 29,
-  "generated_at": "2026-09-08T13:39:22.272634",
+  "generated_at": "2026-09-08T16:41:43.046582",
   "leagues": [
     {
       "league": "挪超",
@@ -57,11 +57,11 @@
     },
     {
       "league": "K1联赛",
-      "n": 37,
-      "hit_rate": 0.5135,
-      "avg_odds": 2.031,
-      "roi": 0.0984,
-      "avg_confidence": 0.1907,
+      "n": 38,
+      "hit_rate": 0.5,
+      "avg_odds": 2.026,
+      "roi": 0.0695,
+      "avg_confidence": 0.1903,
       "verdict": "观望",
       "recent_n": 5,
       "recent_hits": 1,

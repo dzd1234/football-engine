@@ -1,0 +1,212 @@
+{
+  "stable": [],
+  "value": [],
+  "lottery": [],
+  "total_stake": 0,
+  "expected_roi": 0.0,
+  "bankroll": 3673.2891,
+  "breaker_multiplier": 1.0,
+  "parlay": [],
+  "score_parlay": [
+    {
+      "type": "比分2串1",
+      "legs": [
+        {
+          "match": "2026-09-09_周三003",
+          "home": "巴萨",
+          "away": "费耶诺德",
+          "league": "欧冠",
+          "score": "1-0",
+          "prob": 0.223,
+          "cal_prob": 0.0991,
+          "odds": 18.0
+        },
+        {
+          "match": "2026-09-09_周三004",
+          "home": "斯图加特",
+          "away": "维京",
+          "league": "欧冠",
+          "score": "0-1",
+          "prob": 0.236,
+          "cal_prob": 0.0727,
+          "odds": 45.0
+        }
+      ],
+      "total_odds": 810.0,
+      "hit_prob": 0.0072,
+      "stake": 2.0,
+      "potential": 1620.0,
+      "worst_win": 0.0,
+      "n_bets": 1,
+      "odds_source": "official",
+      "note": "两场比分都中才赢（校准命中 0.7% × 赔率 810 倍 = EV +483%）"
+    },
+    {
+      "type": "比分2串1",
+      "legs": [
+        {
+          "match": "2026-09-09_周三009",
+          "home": "巴黎圣曼",
+          "away": "布拉迪斯拉发",
+          "league": "欧冠",
+          "score": "1-0",
+          "prob": 0.242,
+          "cal_prob": 0.0991,
+          "odds": 17.0
+        },
+        {
+          "match": "2026-09-09_周三004",
+          "home": "斯图加特",
+          "away": "维京",
+          "league": "欧冠",
+          "score": "0-1",
+          "prob": 0.236,
+          "cal_prob": 0.0727,
+          "odds": 45.0
+        }
+      ],
+      "total_odds": 765.0,
+      "hit_prob": 0.0072,
+      "stake": 2.0,
+      "potential": 1530.0,
+      "worst_win": 0.0,
+      "n_bets": 1,
+      "odds_source": "official",
+      "note": "两场比分都中才赢（校准命中 0.7% × 赔率 765 倍 = EV +451%）"
+    },
+    {
+      "type": "比分2串1",
+      "legs": [
+        {
+          "match": "2026-09-09_周三005",
+          "home": "特温特",
+          "away": "特尔斯达",
+          "league": "荷甲",
+          "score": "1-0",
+          "prob": 0.268,
+          "cal_prob": 0.0991,
+          "odds": 12.0
+        },
+        {
+          "match": "2026-09-09_周三004",
+          "home": "斯图加特",
+          "away": "维京",
+          "league": "欧冠",
+          "score": "0-1",
+          "prob": 0.236,
+          "cal_prob": 0.0727,
+          "odds": 45.0
+        }
+      ],
+      "total_odds": 540.0,
+      "hit_prob": 0.0072,
+      "stake": 2.0,
+      "potential": 1080.0,
+      "worst_win": 0.0,
+      "n_bets": 1,
+      "odds_source": "official",
+      "note": "两场比分都中才赢（校准命中 0.7% × 赔率 540 倍 = EV +289%）"
+    },
+    {
+      "type": "比分3串1",
+      "legs": [
+        {
+          "match": "2026-09-09_周三003",
+          "home": "巴萨",
+          "away": "费耶诺德",
+          "league": "欧冠",
+          "score": "1-0",
+          "prob": 0.223,
+          "cal_prob": 0.0991,
+          "odds": 18.0
+        },
+        {
+          "match": "2026-09-09_周三005",
+          "home": "特温特",
+          "away": "特尔斯达",
+          "league": "荷甲",
+          "score": "1-0",
+          "prob": 0.268,
+          "cal_prob": 0.0991,
+          "odds": 12.0
+        },
+        {
+          "match": "2026-09-09_周三009",
+          "home": "巴黎圣曼",
+          "away": "布拉迪斯拉发",
+          "league": "欧冠",
+          "score": "1-0",
+          "prob": 0.242,
+          "cal_prob": 0.0991,
+          "odds": 17.0
+        }
+      ],
+      "total_odds": 3672.0,
+      "hit_prob": 0.001,
+      "stake": 2.0,
+      "potential": 7344.0,
+      "worst_win": 0.0,
+      "n_bets": 1,
+      "odds_source": "official",
+      "note": "三场比分全中才赢（赔率 3672 倍，校准命中 0.10%）"
+    },
+    {
+      "type": "比分3串4(容错)",
+      "legs": [
+        {
+          "match": "2026-09-09_周三003",
+          "home": "巴萨",
+          "away": "费耶诺德",
+          "league": "欧冠",
+          "score": "1-0",
+          "prob": 0.223,
+          "cal_prob": 0.0991,
+          "odds": 18.0
+        },
+        {
+          "match": "2026-09-09_周三005",
+          "home": "特温特",
+          "away": "特尔斯达",
+          "league": "荷甲",
+          "score": "1-0",
+          "prob": 0.268,
+          "cal_prob": 0.0991,
+          "odds": 12.0
+        },
+        {
+          "match": "2026-09-09_周三009",
+          "home": "巴黎圣曼",
+          "away": "布拉迪斯拉发",
+          "league": "欧冠",
+          "score": "1-0",
+          "prob": 0.242,
+          "cal_prob": 0.0991,
+          "odds": 17.0
+        }
+      ],
+      "total_odds": 3672.0,
+      "hit_prob": 0.001,
+      "stake": 8.0,
+      "potential": 8796.0,
+      "worst_win": 612.0,
+      "n_bets": 4,
+      "odds_source": "official",
+      "note": "3场出4注（3×2串1+1×3串1）错1场仍中1注2串1≈¥612，全中≈¥8796"
+    }
+  ],
+  "parlay_calibration": {
+    "overall": 0.5117,
+    "n": 598,
+    "table": {
+      "0.35": 0.4071,
+      "0.4": 0.5426,
+      "0.45": 0.5156,
+      "0.5": 0.4944,
+      "0.55": 0.383,
+      "0.6": 0.6562,
+      "0.65": 0.7,
+      "0.7": 0.75
+    },
+    "note": "串关 EV 用账本校准命中率（模型概率高估，0.55-0.60 段仅 31.6% 命中）；推荐=校准EV>0"
+  }
+}
