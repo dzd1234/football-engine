@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-09-07",
-  "total_matches": 597,
+  "generated_at": "2026-09-08",
+  "total_matches": 598,
   "date_range": [
     "2026-07-19",
     "2026-09-07"
   ],
   "overall": {
-    "hit_rate": 0.5126,
-    "brier_final": 0.6105,
-    "brier_model": 0.6349,
-    "brier_market": 0.588,
+    "hit_rate": 0.5117,
+    "brier_final": 0.6107,
+    "brier_model": 0.6357,
+    "brier_market": 0.5878,
     "brier_djyy": 0.646
   },
   "daily": [
@@ -615,21 +615,21 @@
     },
     {
       "date": "2026-09-07",
-      "n": 8,
+      "n": 9,
       "hits": 4,
-      "hit_rate": 0.5,
-      "cum_hit_rate": 0.5126,
-      "brier_final": 0.6842,
-      "brier_model": 0.6217,
-      "brier_market": 0.7071,
+      "hit_rate": 0.4444,
+      "cum_hit_rate": 0.5117,
+      "brier_final": 0.6945,
+      "brier_model": 0.6753,
+      "brier_market": 0.6828,
       "brier_djyy": null,
       "pnl": 0.0
     }
   ],
   "rolling7": {
-    "n": 105,
-    "hit_rate": 0.4762,
-    "brier_final": 0.6092,
+    "n": 106,
+    "hit_rate": 0.4717,
+    "brier_final": 0.6107,
     "pnl": -250.0
   },
   "prev7": {
@@ -638,7 +638,7 @@
     "brier_final": 0.516,
     "pnl": 2.5
   },
-  "verdict": "命中率下降 -12pt",
+  "verdict": "命中率下降 -13pt",
   "by_league": [
     {
       "layer": "西甲",
@@ -714,9 +714,9 @@
     },
     {
       "layer": "巴甲",
-      "n": 23,
-      "hit_rate": 0.2609,
-      "brier_final": 0.6917
+      "n": 24,
+      "hit_rate": 0.25,
+      "brier_final": 0.6952
     },
     {
       "layer": "日职",
@@ -872,9 +872,9 @@
     },
     {
       "layer": "2.0-3.0",
-      "n": 185,
-      "hit_rate": 0.4378,
-      "brier_final": 0.6562
+      "n": 186,
+      "hit_rate": 0.4355,
+      "brier_final": 0.6569
     },
     {
       "layer": "1.0-1.5",
@@ -892,9 +892,9 @@
   "by_conf_tier": [
     {
       "layer": "mid",
-      "n": 348,
-      "hit_rate": 0.5144,
-      "brier_final": 0.6169
+      "n": 349,
+      "hit_rate": 0.5129,
+      "brier_final": 0.6173
     },
     {
       "layer": "high",
