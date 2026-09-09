@@ -1,15 +1,15 @@
 {
   "generated_at": "2026-09-09",
-  "total_matches": 610,
+  "total_matches": 611,
   "date_range": [
     "2026-07-19",
-    "2026-09-08"
+    "2026-09-09"
   ],
   "overall": {
-    "hit_rate": 0.5164,
-    "brier_final": 0.6078,
-    "brier_model": 0.6346,
-    "brier_market": 0.5852,
+    "hit_rate": 0.5155,
+    "brier_final": 0.608,
+    "brier_model": 0.6344,
+    "brier_market": 0.5854,
     "brier_djyy": 0.646
   },
   "daily": [
@@ -636,21 +636,33 @@
       "brier_market": 0.4668,
       "brier_djyy": null,
       "pnl": 0.0
+    },
+    {
+      "date": "2026-09-09",
+      "n": 1,
+      "hits": 0,
+      "hit_rate": 0.0,
+      "cum_hit_rate": 0.5155,
+      "brier_final": 0.7364,
+      "brier_model": 0.5355,
+      "brier_market": 0.728,
+      "brier_djyy": null,
+      "pnl": 0.0
     }
   ],
   "rolling7": {
-    "n": 108,
-    "hit_rate": 0.5,
-    "brier_final": 0.5906,
-    "pnl": -50.0
+    "n": 96,
+    "hit_rate": 0.5104,
+    "brier_final": 0.6044,
+    "pnl": 0.0
   },
   "prev7": {
-    "n": 111,
-    "hit_rate": 0.5946,
-    "brier_final": 0.5195,
-    "pnl": -398.5
+    "n": 112,
+    "hit_rate": 0.5536,
+    "brier_final": 0.5453,
+    "pnl": -298.5
   },
-  "verdict": "命中率下降 -9pt",
+  "verdict": "命中率下降 -4pt",
   "by_league": [
     {
       "layer": "西甲",
@@ -666,9 +678,9 @@
     },
     {
       "layer": "K1联赛",
-      "n": 36,
-      "hit_rate": 0.5278,
-      "brier_final": 0.6476
+      "n": 37,
+      "hit_rate": 0.5135,
+      "brier_final": 0.65
     },
     {
       "layer": "挪超",
@@ -884,9 +896,9 @@
     },
     {
       "layer": "2.0-3.0",
-      "n": 187,
-      "hit_rate": 0.4385,
-      "brier_final": 0.6564
+      "n": 188,
+      "hit_rate": 0.4362,
+      "brier_final": 0.6568
     },
     {
       "layer": "1.0-1.5",
@@ -904,9 +916,9 @@
   "by_conf_tier": [
     {
       "layer": "mid",
-      "n": 354,
-      "hit_rate": 0.5141,
-      "brier_final": 0.6162
+      "n": 355,
+      "hit_rate": 0.5127,
+      "brier_final": 0.6166
     },
     {
       "layer": "high",

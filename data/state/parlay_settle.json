@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-09-09T15:18:43.531564+00:00",
+  "generated_at": "2026-09-09T17:20:29.766618+00:00",
   "parlay": {
-    "n_tickets": 80,
-    "n_pending": 5,
+    "n_tickets": 81,
+    "n_pending": 6,
     "n_settled": 75,
     "n_won": 19,
     "hit_rate": 0.2533,
     "stake": 408.49,
-    "stake_committed": 430.52,
-    "stake_pending": 22.03,
+    "stake_committed": 443.74,
+    "stake_pending": 35.25,
     "return": 504.16,
     "roi": 0.2342,
     "avg_odds": 5.93,
@@ -31,14 +31,14 @@
     }
   },
   "score_parlay": {
-    "n_tickets": 140,
-    "n_pending": 5,
+    "n_tickets": 141,
+    "n_pending": 6,
     "n_settled": 135,
     "n_won": 0,
     "hit_rate": 0.0,
     "stake": 420.0,
-    "stake_committed": 436.0,
-    "stake_pending": 16.0,
+    "stake_committed": 438.0,
+    "stake_pending": 18.0,
     "return": 0.0,
     "roi": -1.0,
     "avg_odds": 538.6,
@@ -3200,6 +3200,42 @@
             "sel": "home",
             "score": null,
             "odds": 2.1,
+            "hit": null
+          }
+        ]
+      },
+      {
+        "date": "2026-09-10",
+        "type": "2串1",
+        "stake": 13.22,
+        "potential": 81.18,
+        "total_odds": 6.14,
+        "odds_source": null,
+        "note": "待赛",
+        "won": false,
+        "pending": true,
+        "leg_results": [
+          null,
+          null
+        ],
+        "return": 0.0,
+        "legs": [
+          {
+            "match": "2026-09-10_周四004",
+            "home": "斯拉维亚",
+            "away": "朗斯",
+            "sel": "away",
+            "score": null,
+            "odds": 2.38,
+            "hit": null
+          },
+          {
+            "match": "2026-09-10_周四007",
+            "home": "德尔瓦耶",
+            "away": "弗拉门戈",
+            "sel": "away",
+            "score": null,
+            "odds": 2.58,
             "hit": null
           }
         ]
@@ -8762,6 +8798,42 @@
             "sel": null,
             "score": "1-0",
             "odds": 14.0,
+            "hit": null
+          }
+        ]
+      },
+      {
+        "date": "2026-09-10",
+        "type": "比分2串1",
+        "stake": 2.0,
+        "potential": 2400.0,
+        "total_odds": 1200.0,
+        "odds_source": "official",
+        "note": "待赛",
+        "won": false,
+        "pending": true,
+        "leg_results": [
+          null,
+          null
+        ],
+        "return": 0.0,
+        "legs": [
+          {
+            "match": "2026-09-10_周四005",
+            "home": "曼联",
+            "away": "萨巴赫",
+            "sel": null,
+            "score": "1-0",
+            "odds": 12.0,
+            "hit": null
+          },
+          {
+            "match": "2026-09-10_周四003",
+            "home": "拜仁",
+            "away": "博德闪耀",
+            "sel": null,
+            "score": "0-1",
+            "odds": 100.0,
             "hit": null
           }
         ]
@@ -19562,6 +19634,118 @@
                 "sel": null,
                 "score": "1-0",
                 "odds": 14.0,
+                "hit": null
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "2026-09-10": {
+      "parlay": {
+        "stats": {
+          "n_tickets": 1,
+          "n_pending": 1,
+          "n_settled": 0,
+          "n_won": 0,
+          "hit_rate": null,
+          "stake": 0,
+          "stake_committed": 13.22,
+          "stake_pending": 13.22,
+          "return": 0,
+          "roi": null,
+          "avg_odds": null,
+          "by_type": {}
+        },
+        "tickets": [
+          {
+            "date": "2026-09-10",
+            "type": "2串1",
+            "stake": 13.22,
+            "potential": 81.18,
+            "total_odds": 6.14,
+            "odds_source": null,
+            "note": "待赛",
+            "won": false,
+            "pending": true,
+            "leg_results": [
+              null,
+              null
+            ],
+            "return": 0.0,
+            "legs": [
+              {
+                "match": "2026-09-10_周四004",
+                "home": "斯拉维亚",
+                "away": "朗斯",
+                "sel": "away",
+                "score": null,
+                "odds": 2.38,
+                "hit": null
+              },
+              {
+                "match": "2026-09-10_周四007",
+                "home": "德尔瓦耶",
+                "away": "弗拉门戈",
+                "sel": "away",
+                "score": null,
+                "odds": 2.58,
+                "hit": null
+              }
+            ]
+          }
+        ]
+      },
+      "score_parlay": {
+        "stats": {
+          "n_tickets": 1,
+          "n_pending": 1,
+          "n_settled": 0,
+          "n_won": 0,
+          "hit_rate": null,
+          "stake": 0,
+          "stake_committed": 2.0,
+          "stake_pending": 2.0,
+          "return": 0,
+          "roi": null,
+          "avg_odds": null,
+          "by_type": {},
+          "leg_hit_rate": null,
+          "n_legs_settled": 0
+        },
+        "tickets": [
+          {
+            "date": "2026-09-10",
+            "type": "比分2串1",
+            "stake": 2.0,
+            "potential": 2400.0,
+            "total_odds": 1200.0,
+            "odds_source": "official",
+            "note": "待赛",
+            "won": false,
+            "pending": true,
+            "leg_results": [
+              null,
+              null
+            ],
+            "return": 0.0,
+            "legs": [
+              {
+                "match": "2026-09-10_周四005",
+                "home": "曼联",
+                "away": "萨巴赫",
+                "sel": null,
+                "score": "1-0",
+                "odds": 12.0,
+                "hit": null
+              },
+              {
+                "match": "2026-09-10_周四003",
+                "home": "拜仁",
+                "away": "博德闪耀",
+                "sel": null,
+                "score": "0-1",
+                "odds": 100.0,
                 "hit": null
               }
             ]
