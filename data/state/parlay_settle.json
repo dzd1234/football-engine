@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-09T00:13:55.858255+00:00",
+  "generated_at": "2026-09-09T01:15:39.743663+00:00",
   "parlay": {
     "n_tickets": 76,
     "n_pending": 1,
@@ -3008,8 +3008,8 @@
         "date": "2026-09-09",
         "type": "2串1",
         "stake": 13.22,
-        "potential": 32.38,
-        "total_odds": 2.45,
+        "potential": 32.17,
+        "total_odds": 2.43,
         "odds_source": null,
         "note": "待赛",
         "won": false,
@@ -3021,21 +3021,21 @@
         "return": 0.0,
         "legs": [
           {
-            "match": "2026-09-09_周三003",
-            "home": "巴萨",
-            "away": "费耶诺德",
+            "match": "2026-09-09_周三005",
+            "home": "特温特",
+            "away": "特尔斯达",
             "sel": "home",
             "score": null,
             "odds": 1.56,
             "hit": null
           },
           {
-            "match": "2026-09-09_周三005",
-            "home": "特温特",
-            "away": "特尔斯达",
+            "match": "2026-09-09_周三003",
+            "home": "巴萨",
+            "away": "费耶诺德",
             "sel": "home",
             "score": null,
-            "odds": 1.57,
+            "odds": 1.56,
             "hit": null
           }
         ]
@@ -18986,8 +18986,8 @@
             "date": "2026-09-09",
             "type": "2串1",
             "stake": 13.22,
-            "potential": 32.38,
-            "total_odds": 2.45,
+            "potential": 32.17,
+            "total_odds": 2.43,
             "odds_source": null,
             "note": "待赛",
             "won": false,
@@ -18999,21 +18999,21 @@
             "return": 0.0,
             "legs": [
               {
-                "match": "2026-09-09_周三003",
-                "home": "巴萨",
-                "away": "费耶诺德",
+                "match": "2026-09-09_周三005",
+                "home": "特温特",
+                "away": "特尔斯达",
                 "sel": "home",
                 "score": null,
                 "odds": 1.56,
                 "hit": null
               },
               {
-                "match": "2026-09-09_周三005",
-                "home": "特温特",
-                "away": "特尔斯达",
+                "match": "2026-09-09_周三003",
+                "home": "巴萨",
+                "away": "费耶诺德",
                 "sel": "home",
                 "score": null,
-                "odds": 1.57,
+                "odds": 1.56,
                 "hit": null
               }
             ]
