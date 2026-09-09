@@ -20,10 +20,10 @@
     "draw_baseline": 0.17,
     "draw_predictions": 0,
     "draw_hits": 0,
-    "total_predictions": 32,
-    "total_hits": 20,
+    "total_predictions": 34,
+    "total_hits": 22,
     "avg_overround": 0.0,
-    "last_updated": "2026-09-08"
+    "last_updated": "2026-09-09"
   },
   "巴西杯": {
     "base_goals": 1.35,
@@ -150,10 +150,10 @@
     "draw_baseline": 0.25,
     "draw_predictions": 0,
     "draw_hits": 0,
-    "total_predictions": 32,
-    "total_hits": 21,
+    "total_predictions": 33,
+    "total_hits": 22,
     "avg_overround": 0.0,
-    "last_updated": "2026-09-08"
+    "last_updated": "2026-09-09"
   },
   "荷乙": {
     "base_goals": 1.35,
@@ -293,10 +293,10 @@
     "draw_baseline": 0.25,
     "draw_predictions": 0,
     "draw_hits": 0,
-    "total_predictions": 22,
+    "total_predictions": 23,
     "total_hits": 16,
     "avg_overround": 0.0,
-    "last_updated": "2026-09-08"
+    "last_updated": "2026-09-09"
   },
   "英冠": {
     "base_goals": 1.35,

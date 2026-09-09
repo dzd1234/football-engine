@@ -18,10 +18,10 @@
           "sel": "away",
           "odds": 2.38,
           "prob": 0.404,
-          "cal_prob": 0.543,
+          "cal_prob": 0.538,
           "market_prob": 0.372,
           "source": "fusion",
-          "hit_prob": 0.543
+          "hit_prob": 0.538
         },
         {
           "match": "2026-09-10_周四007",
@@ -39,11 +39,11 @@
       ],
       "total_odds": 6.14,
       "model_ev": -0.17,
-      "cal_ev": 4.94,
-      "cal_roi": 0.3737,
+      "cal_ev": 4.8,
+      "cal_roi": 0.3633,
       "market_ev": -0.43,
       "market_roi": -0.2149,
-      "hit_prob_cal": 0.224,
+      "hit_prob_cal": 0.222,
       "recommended": true,
       "stake": 13.22,
       "n_bets": 1,
@@ -63,8 +63,8 @@
           "away": "萨巴赫",
           "league": "欧冠",
           "score": "1-0",
-          "prob": 0.221,
-          "cal_prob": 0.1001,
+          "prob": 0.218,
+          "cal_prob": 0.101,
           "odds": 12.0
         },
         {
@@ -73,8 +73,8 @@
           "away": "博德闪耀",
           "league": "欧冠",
           "score": "0-1",
-          "prob": 0.307,
-          "cal_prob": 0.0719,
+          "prob": 0.309,
+          "cal_prob": 0.0715,
           "odds": 100.0
         }
       ],
@@ -85,15 +85,15 @@
       "worst_win": 0.0,
       "n_bets": 1,
       "odds_source": "official",
-      "note": "两场比分都中才赢（校准命中 0.7% × 赔率 1200 倍 = EV +764%）"
+      "note": "两场比分都中才赢（校准命中 0.7% × 赔率 1200 倍 = EV +767%）"
     }
   ],
   "parlay_calibration": {
-    "overall": 0.5164,
-    "n": 610,
+    "overall": 0.5155,
+    "n": 611,
     "table": {
       "0.35": 0.4123,
-      "0.4": 0.5426,
+      "0.4": 0.5385,
       "0.45": 0.5115,
       "0.5": 0.5055,
       "0.55": 0.4118,
