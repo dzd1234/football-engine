@@ -20,8 +20,8 @@
     "draw_baseline": 0.17,
     "draw_predictions": 0,
     "draw_hits": 0,
-    "total_predictions": 34,
-    "total_hits": 22,
+    "total_predictions": 38,
+    "total_hits": 26,
     "avg_overround": 0.0,
     "last_updated": "2026-09-09"
   },
@@ -189,10 +189,10 @@
     "draw_baseline": 0.25,
     "draw_predictions": 0,
     "draw_hits": 0,
-    "total_predictions": 11,
-    "total_hits": 8,
+    "total_predictions": 12,
+    "total_hits": 9,
     "avg_overround": 0.0,
-    "last_updated": "2026-09-08"
+    "last_updated": "2026-09-09"
   },
   "葡超": {
     "base_goals": 1.35,
@@ -202,10 +202,10 @@
     "draw_baseline": 0.25,
     "draw_predictions": 4,
     "draw_hits": 0,
-    "total_predictions": 32,
-    "total_hits": 18,
+    "total_predictions": 33,
+    "total_hits": 19,
     "avg_overround": 0.0,
-    "last_updated": "2026-09-07"
+    "last_updated": "2026-09-09"
   },
   "日乙": {
     "base_goals": 1.35,
@@ -306,10 +306,10 @@
     "draw_baseline": 0.25,
     "draw_predictions": 0,
     "draw_hits": 0,
-    "total_predictions": 26,
+    "total_predictions": 27,
     "total_hits": 10,
     "avg_overround": 0.0,
-    "last_updated": "2026-09-08"
+    "last_updated": "2026-09-09"
   },
   "西甲": {
     "base_goals": 1.35,
