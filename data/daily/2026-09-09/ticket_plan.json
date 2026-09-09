@@ -1,12 +1,65 @@
 {
   "stable": [],
   "value": [],
-  "lottery": [],
-  "total_stake": 0,
-  "expected_roi": 0.0,
+  "lottery": [
+    {
+      "match": "2026-09-09_周三010#ttg",
+      "sel": "ttg_1",
+      "odds": 5.0,
+      "stake": 50.0,
+      "prob": 0.207
+    }
+  ],
+  "total_stake": 50.0,
+  "expected_roi": 0.0338,
   "bankroll": 3673.2891,
   "breaker_multiplier": 1.0,
   "parlay": [
+    {
+      "type": "2串1",
+      "legs": [
+        {
+          "match": "2026-09-09_周三003",
+          "home": "巴萨",
+          "away": "费耶诺德",
+          "league": "欧冠",
+          "sel": "home",
+          "odds": 1.57,
+          "prob": 0.608,
+          "cal_prob": 0.676,
+          "market_prob": 0.607,
+          "source": "fusion",
+          "hit_prob": 0.676
+        },
+        {
+          "match": "2026-09-09_周三010",
+          "home": "查尔顿",
+          "away": "女王巡游",
+          "league": "英冠",
+          "sel": "away",
+          "odds": 2.17,
+          "prob": 0.415,
+          "cal_prob": 0.543,
+          "market_prob": 0.408,
+          "source": "fusion",
+          "hit_prob": 0.543
+        }
+      ],
+      "total_odds": 3.41,
+      "model_ev": -0.28,
+      "cal_ev": 1.27,
+      "cal_roi": 0.2506,
+      "market_ev": -0.31,
+      "market_roi": -0.1555,
+      "hit_prob_cal": 0.367,
+      "recommended": true,
+      "stake": 5.08,
+      "n_bets": 1,
+      "potential": 17.31,
+      "worst_win": 0.0,
+      "note": "两场全中才赢",
+      "source": "calibrated"
+    },
     {
       "type": "2串1",
       "legs": [
@@ -17,9 +70,54 @@
           "league": "荷甲",
           "sel": "home",
           "odds": 1.56,
-          "prob": 0.61,
+          "prob": 0.609,
           "cal_prob": 0.676,
-          "market_prob": 0.61,
+          "market_prob": 0.609,
+          "source": "fusion",
+          "hit_prob": 0.676
+        },
+        {
+          "match": "2026-09-09_周三010",
+          "home": "查尔顿",
+          "away": "女王巡游",
+          "league": "英冠",
+          "sel": "away",
+          "odds": 2.17,
+          "prob": 0.415,
+          "cal_prob": 0.543,
+          "market_prob": 0.408,
+          "source": "fusion",
+          "hit_prob": 0.543
+        }
+      ],
+      "total_odds": 3.39,
+      "model_ev": -0.29,
+      "cal_ev": 1.2,
+      "cal_roi": 0.2426,
+      "market_ev": -0.32,
+      "market_roi": -0.1584,
+      "hit_prob_cal": 0.367,
+      "recommended": true,
+      "stake": 4.96,
+      "n_bets": 1,
+      "potential": 16.79,
+      "worst_win": 0.0,
+      "note": "两场全中才赢",
+      "source": "calibrated"
+    },
+    {
+      "type": "2串1",
+      "legs": [
+        {
+          "match": "2026-09-09_周三005",
+          "home": "特温特",
+          "away": "特尔斯达",
+          "league": "荷甲",
+          "sel": "home",
+          "odds": 1.56,
+          "prob": 0.609,
+          "cal_prob": 0.676,
+          "market_prob": 0.609,
           "source": "fusion",
           "hit_prob": 0.676
         },
@@ -29,27 +127,143 @@
           "away": "费耶诺德",
           "league": "欧冠",
           "sel": "home",
-          "odds": 1.56,
-          "prob": 0.609,
+          "odds": 1.57,
+          "prob": 0.608,
           "cal_prob": 0.676,
-          "market_prob": 0.61,
+          "market_prob": 0.607,
           "source": "fusion",
           "hit_prob": 0.676
         }
       ],
-      "total_odds": 2.43,
+      "total_odds": 2.45,
       "model_ev": -0.19,
-      "cal_ev": 1.5,
-      "cal_roi": 0.1137,
+      "cal_ev": 0.49,
+      "cal_roi": 0.1209,
       "market_ev": -0.19,
-      "market_roi": -0.095,
+      "market_roi": -0.0938,
       "hit_prob_cal": 0.458,
       "recommended": true,
-      "stake": 13.22,
+      "stake": 4.07,
       "n_bets": 1,
-      "potential": 32.17,
+      "potential": 9.97,
       "worst_win": 0.0,
       "note": "两场全中才赢",
+      "source": "calibrated"
+    },
+    {
+      "type": "3串1",
+      "legs": [
+        {
+          "match": "2026-09-09_周三005",
+          "home": "特温特",
+          "away": "特尔斯达",
+          "league": "荷甲",
+          "sel": "home",
+          "odds": 1.56,
+          "prob": 0.609,
+          "cal_prob": 0.676,
+          "market_prob": 0.609,
+          "source": "fusion",
+          "hit_prob": 0.676
+        },
+        {
+          "match": "2026-09-09_周三003",
+          "home": "巴萨",
+          "away": "费耶诺德",
+          "league": "欧冠",
+          "sel": "home",
+          "odds": 1.57,
+          "prob": 0.608,
+          "cal_prob": 0.676,
+          "market_prob": 0.607,
+          "source": "fusion",
+          "hit_prob": 0.676
+        },
+        {
+          "match": "2026-09-09_周三010",
+          "home": "查尔顿",
+          "away": "女王巡游",
+          "league": "英冠",
+          "sel": "away",
+          "odds": 2.17,
+          "prob": 0.415,
+          "cal_prob": 0.543,
+          "market_prob": 0.408,
+          "source": "fusion",
+          "hit_prob": 0.543
+        }
+      ],
+      "total_odds": 5.31,
+      "model_ev": -0.37,
+      "cal_ev": 1.16,
+      "cal_roi": 0.3198,
+      "market_ev": -0.39,
+      "market_roi": -0.1974,
+      "hit_prob_cal": 0.248,
+      "recommended": true,
+      "stake": 3.62,
+      "n_bets": 1,
+      "potential": 19.24,
+      "worst_win": 0.0,
+      "note": "三场全中才赢",
+      "source": "calibrated"
+    },
+    {
+      "type": "3串4",
+      "legs": [
+        {
+          "match": "2026-09-09_周三005",
+          "home": "特温特",
+          "away": "特尔斯达",
+          "league": "荷甲",
+          "sel": "home",
+          "odds": 1.56,
+          "prob": 0.609,
+          "cal_prob": 0.676,
+          "market_prob": 0.609,
+          "source": "fusion",
+          "hit_prob": 0.676
+        },
+        {
+          "match": "2026-09-09_周三003",
+          "home": "巴萨",
+          "away": "费耶诺德",
+          "league": "欧冠",
+          "sel": "home",
+          "odds": 1.57,
+          "prob": 0.608,
+          "cal_prob": 0.676,
+          "market_prob": 0.607,
+          "source": "fusion",
+          "hit_prob": 0.676
+        },
+        {
+          "match": "2026-09-09_周三010",
+          "home": "查尔顿",
+          "away": "女王巡游",
+          "league": "英冠",
+          "sel": "away",
+          "odds": 2.17,
+          "prob": 0.415,
+          "cal_prob": 0.543,
+          "market_prob": 0.408,
+          "source": "fusion",
+          "hit_prob": 0.543
+        }
+      ],
+      "total_odds": 3.64,
+      "model_ev": null,
+      "cal_ev": 1.01,
+      "cal_roi": 0.2335,
+      "market_ev": -1.21,
+      "market_roi": -0.1513,
+      "hit_prob_cal": 0.248,
+      "recommended": true,
+      "stake": 4.32,
+      "n_bets": 4,
+      "potential": 15.72,
+      "worst_win": 4.9,
+      "note": "容错：错 1 场仍中 1 注 2串1（回 ¥5），全中 ¥29",
       "source": "calibrated"
     }
   ],
@@ -63,9 +277,9 @@
           "away": "费耶诺德",
           "league": "欧冠",
           "score": "1-0",
-          "prob": 0.221,
+          "prob": 0.224,
           "cal_prob": 0.1001,
-          "odds": 18.0
+          "odds": 21.0
         },
         {
           "match": "2026-09-09_周三004",
@@ -73,19 +287,19 @@
           "away": "维京",
           "league": "欧冠",
           "score": "0-1",
-          "prob": 0.233,
+          "prob": 0.232,
           "cal_prob": 0.0719,
           "odds": 45.0
         }
       ],
-      "total_odds": 810.0,
+      "total_odds": 945.0,
       "hit_prob": 0.0072,
       "stake": 2.0,
-      "potential": 1620.0,
+      "potential": 1890.0,
       "worst_win": 0.0,
       "n_bets": 1,
       "odds_source": "official",
-      "note": "两场比分都中才赢（校准命中 0.7% × 赔率 810 倍 = EV +483%）"
+      "note": "两场比分都中才赢（校准命中 0.7% × 赔率 945 倍 = EV +581%）"
     },
     {
       "type": "比分2串1",
@@ -96,7 +310,7 @@
           "away": "布拉迪斯拉发",
           "league": "欧冠",
           "score": "1-0",
-          "prob": 0.246,
+          "prob": 0.244,
           "cal_prob": 0.1001,
           "odds": 17.0
         },
@@ -106,7 +320,7 @@
           "away": "维京",
           "league": "欧冠",
           "score": "0-1",
-          "prob": 0.233,
+          "prob": 0.232,
           "cal_prob": 0.0719,
           "odds": 45.0
         }
@@ -124,47 +338,57 @@
       "type": "比分2串1",
       "legs": [
         {
-          "match": "2026-09-09_周三005",
-          "home": "特温特",
-          "away": "特尔斯达",
-          "league": "荷甲",
-          "score": "1-0",
-          "prob": 0.27,
-          "cal_prob": 0.1001,
-          "odds": 12.0
-        },
-        {
           "match": "2026-09-09_周三004",
           "home": "斯图加特",
           "away": "维京",
           "league": "欧冠",
           "score": "0-1",
-          "prob": 0.233,
+          "prob": 0.232,
           "cal_prob": 0.0719,
           "odds": 45.0
+        },
+        {
+          "match": "2026-09-09_周三011",
+          "home": "切尔西",
+          "away": "利兹联",
+          "league": "英联赛杯",
+          "score": "0-1",
+          "prob": 0.232,
+          "cal_prob": 0.0719,
+          "odds": 18.0
         }
       ],
-      "total_odds": 540.0,
-      "hit_prob": 0.0072,
+      "total_odds": 810.0,
+      "hit_prob": 0.0052,
       "stake": 2.0,
-      "potential": 1080.0,
+      "potential": 1620.0,
       "worst_win": 0.0,
       "n_bets": 1,
       "odds_source": "official",
-      "note": "两场比分都中才赢（校准命中 0.7% × 赔率 540 倍 = EV +289%）"
+      "note": "两场比分都中才赢（校准命中 0.5% × 赔率 810 倍 = EV +319%）"
     },
     {
       "type": "比分3串1",
       "legs": [
         {
+          "match": "2026-09-09_周三002",
+          "home": "拉斯永恒",
+          "away": "利雅青年",
+          "league": "沙职",
+          "score": "1-0",
+          "prob": 0.197,
+          "cal_prob": 0.1001,
+          "odds": 11.5
+        },
+        {
           "match": "2026-09-09_周三003",
           "home": "巴萨",
           "away": "费耶诺德",
           "league": "欧冠",
           "score": "1-0",
-          "prob": 0.221,
+          "prob": 0.224,
           "cal_prob": 0.1001,
-          "odds": 18.0
+          "odds": 21.0
         },
         {
           "match": "2026-09-09_周三005",
@@ -172,42 +396,42 @@
           "away": "特尔斯达",
           "league": "荷甲",
           "score": "1-0",
-          "prob": 0.27,
+          "prob": 0.268,
           "cal_prob": 0.1001,
           "odds": 12.0
-        },
-        {
-          "match": "2026-09-09_周三009",
-          "home": "巴黎圣曼",
-          "away": "布拉迪斯拉发",
-          "league": "欧冠",
-          "score": "1-0",
-          "prob": 0.246,
-          "cal_prob": 0.1001,
-          "odds": 17.0
         }
       ],
-      "total_odds": 3672.0,
+      "total_odds": 2898.0,
       "hit_prob": 0.001,
       "stake": 2.0,
-      "potential": 7344.0,
+      "potential": 5796.0,
       "worst_win": 0.0,
       "n_bets": 1,
       "odds_source": "official",
-      "note": "三场比分全中才赢（赔率 3672 倍，校准命中 0.10%）"
+      "note": "三场比分全中才赢（赔率 2898 倍，校准命中 0.10%）"
     },
     {
       "type": "比分3串4(容错)",
       "legs": [
         {
+          "match": "2026-09-09_周三002",
+          "home": "拉斯永恒",
+          "away": "利雅青年",
+          "league": "沙职",
+          "score": "1-0",
+          "prob": 0.197,
+          "cal_prob": 0.1001,
+          "odds": 11.5
+        },
+        {
           "match": "2026-09-09_周三003",
           "home": "巴萨",
           "away": "费耶诺德",
           "league": "欧冠",
           "score": "1-0",
-          "prob": 0.221,
+          "prob": 0.224,
           "cal_prob": 0.1001,
-          "odds": 18.0
+          "odds": 21.0
         },
         {
           "match": "2026-09-09_周三005",
@@ -215,29 +439,19 @@
           "away": "特尔斯达",
           "league": "荷甲",
           "score": "1-0",
-          "prob": 0.27,
+          "prob": 0.268,
           "cal_prob": 0.1001,
           "odds": 12.0
-        },
-        {
-          "match": "2026-09-09_周三009",
-          "home": "巴黎圣曼",
-          "away": "布拉迪斯拉发",
-          "league": "欧冠",
-          "score": "1-0",
-          "prob": 0.246,
-          "cal_prob": 0.1001,
-          "odds": 17.0
         }
       ],
-      "total_odds": 3672.0,
+      "total_odds": 2898.0,
       "hit_prob": 0.001,
       "stake": 8.0,
-      "potential": 8796.0,
-      "worst_win": 612.0,
+      "potential": 7059.0,
+      "worst_win": 504.0,
       "n_bets": 4,
       "odds_source": "official",
-      "note": "3场出4注（3×2串1+1×3串1）错1场仍中1注2串1≈¥612，全中≈¥8796"
+      "note": "3场出4注（3×2串1+1×3串1）错1场仍中1注2串1≈¥504，全中≈¥7059"
     }
   ],
   "parlay_calibration": {
