@@ -1,17 +1,9 @@
 {
   "stable": [],
-  "value": [
-    {
-      "match": "2026-09-10_周四003",
-      "sel": "hcap_away",
-      "odds": 2.11,
-      "stake": 150.0,
-      "prob": 0.488
-    }
-  ],
+  "value": [],
   "lottery": [],
-  "total_stake": 150.0,
-  "expected_roi": 0.0306,
+  "total_stake": 0,
+  "expected_roi": 0.0,
   "bankroll": 3673.2891,
   "breaker_multiplier": 1.0,
   "parlay": [
@@ -26,10 +18,10 @@
           "sel": "away",
           "odds": 2.38,
           "prob": 0.404,
-          "cal_prob": 0.53,
+          "cal_prob": 0.522,
           "market_prob": 0.372,
           "source": "fusion",
-          "hit_prob": 0.53
+          "hit_prob": 0.522
         },
         {
           "match": "2026-09-10_周四007",
@@ -47,11 +39,11 @@
       ],
       "total_odds": 6.21,
       "model_ev": -0.17,
-      "cal_ev": 4.73,
-      "cal_roi": 0.3582,
+      "cal_ev": 4.47,
+      "cal_roi": 0.3379,
       "market_ev": -0.43,
       "market_roi": -0.2149,
-      "hit_prob_cal": 0.219,
+      "hit_prob_cal": 0.215,
       "recommended": true,
       "stake": 13.22,
       "n_bets": 1,
@@ -71,8 +63,8 @@
           "away": "萨巴赫",
           "league": "欧冠",
           "score": "1-0",
-          "prob": 0.218,
-          "cal_prob": 0.1015,
+          "prob": 0.217,
+          "cal_prob": 0.1014,
           "odds": 15.0
         },
         {
@@ -81,8 +73,8 @@
           "away": "博德闪耀",
           "league": "欧冠",
           "score": "0-1",
-          "prob": 0.305,
-          "cal_prob": 0.0716,
+          "prob": 0.306,
+          "cal_prob": 0.0715,
           "odds": 100.0
         }
       ],
@@ -93,15 +85,15 @@
       "worst_win": 0.0,
       "n_bets": 1,
       "odds_source": "official",
-      "note": "两场比分都中才赢（校准命中 0.7% × 赔率 1500 倍 = EV +991%）"
+      "note": "两场比分都中才赢（校准命中 0.7% × 赔率 1500 倍 = EV +988%）"
     }
   ],
   "parlay_calibration": {
-    "overall": 0.5217,
-    "n": 623,
+    "overall": 0.52,
+    "n": 625,
     "table": {
       "0.35": 0.4123,
-      "0.4": 0.5303,
+      "0.4": 0.5224,
       "0.45": 0.5115,
       "0.5": 0.5109,
       "0.55": 0.4444,
