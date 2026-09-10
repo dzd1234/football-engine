@@ -1,15 +1,15 @@
 {
   "generated_at": "2026-09-10",
-  "total_matches": 623,
+  "total_matches": 625,
   "date_range": [
     "2026-07-19",
     "2026-09-09"
   ],
   "overall": {
-    "hit_rate": 0.5217,
-    "brier_final": 0.6023,
+    "hit_rate": 0.52,
+    "brier_final": 0.6029,
     "brier_model": 0.6296,
-    "brier_market": 0.5824,
+    "brier_market": 0.5831,
     "brier_djyy": 0.646
   },
   "daily": [
@@ -639,21 +639,21 @@
     },
     {
       "date": "2026-09-09",
-      "n": 13,
+      "n": 15,
       "hits": 10,
-      "hit_rate": 0.7692,
-      "cum_hit_rate": 0.5217,
-      "brier_final": 0.3436,
-      "brier_model": 0.3954,
-      "brier_market": 0.3986,
+      "hit_rate": 0.6667,
+      "cum_hit_rate": 0.52,
+      "brier_final": 0.4019,
+      "brier_model": 0.4276,
+      "brier_market": 0.4727,
       "brier_djyy": null,
       "pnl": 0.0
     }
   ],
   "rolling7": {
-    "n": 108,
-    "hit_rate": 0.5463,
-    "brier_final": 0.5483,
+    "n": 110,
+    "hit_rate": 0.5364,
+    "brier_final": 0.5566,
     "pnl": 0.0
   },
   "prev7": {
@@ -798,21 +798,21 @@
     },
     {
       "layer": "解放者杯",
+      "n": 11,
+      "hit_rate": 0.3636,
+      "brier_final": 0.5779
+    },
+    {
+      "layer": "美职",
       "n": 10,
-      "hit_rate": 0.4,
-      "brier_final": 0.5716
+      "hit_rate": 0.2,
+      "brier_final": 0.7199
     },
     {
       "layer": "瑞超",
       "n": 9,
       "hit_rate": 0.5556,
       "brier_final": 0.59
-    },
-    {
-      "layer": "美职",
-      "n": 9,
-      "hit_rate": 0.2222,
-      "brier_final": 0.6975
     },
     {
       "layer": "日乙",
@@ -896,9 +896,9 @@
     },
     {
       "layer": "2.0-3.0",
-      "n": 190,
-      "hit_rate": 0.4316,
-      "brier_final": 0.6575
+      "n": 192,
+      "hit_rate": 0.4271,
+      "brier_final": 0.6588
     },
     {
       "layer": "1.0-1.5",
@@ -916,9 +916,9 @@
   "by_conf_tier": [
     {
       "layer": "mid",
-      "n": 358,
-      "hit_rate": 0.5112,
-      "brier_final": 0.6164
+      "n": 360,
+      "hit_rate": 0.5083,
+      "brier_final": 0.6173
     },
     {
       "layer": "high",

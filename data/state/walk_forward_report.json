@@ -1,46 +1,46 @@
 {
-  "total_matches": 623,
+  "total_matches": 625,
   "date_range": [
     "2026-07-19",
     "2026-09-09"
   ],
   "metrics": {
-    "brier": 0.6023,
-    "weighted_brier": 0.6003,
-    "rps": 0.2068,
-    "weighted_rps": 0.2063,
-    "log_loss": 1.0084,
-    "hit_rate": 0.5265,
-    "ece": 0.1129
+    "brier": 0.6029,
+    "weighted_brier": 0.601,
+    "rps": 0.2066,
+    "weighted_rps": 0.206,
+    "log_loss": 1.0093,
+    "hit_rate": 0.5248,
+    "ece": 0.1086
   },
   "draw_analysis": {
-    "actual_draws": 157,
-    "actual_draw_rate": 0.252,
+    "actual_draws": 159,
+    "actual_draw_rate": 0.2544,
     "predicted_draws": 20,
-    "predicted_draw_rate": 0.0321,
+    "predicted_draw_rate": 0.032,
     "max_draw_prob": 0.5025,
     "avg_draw_prob": 0.2677,
-    "avg_market_draw": 0.2452,
-    "market_high_draw_n": 129,
-    "market_high_draw_actual": 43,
-    "market_high_draw_rate": 0.3333
+    "avg_market_draw": 0.2453,
+    "market_high_draw_n": 130,
+    "market_high_draw_actual": 44,
+    "market_high_draw_rate": 0.3385
   },
   "strategy_comparison": {
     "model": {
-      "hit_rate": 0.5217,
-      "n": 623
+      "hit_rate": 0.52,
+      "n": 625
     },
     "market": {
-      "hit_rate": 0.542,
-      "n": 548
+      "hit_rate": 0.54,
+      "n": 550
     },
     "hybrid_v2": {
-      "hit_rate": 0.4872,
-      "n": 548
+      "hit_rate": 0.4873,
+      "n": 550
     },
     "market_d28": {
       "hit_rate": 0.4945,
-      "n": 548
+      "n": 550
     }
   },
   "by_league": {
@@ -177,22 +177,22 @@
       "rps": 0.2014
     },
     "解放者杯": {
+      "n": 11,
+      "hit_rate": 0.3636,
+      "brier": 0.5779,
+      "rps": 0.1288
+    },
+    "美职": {
       "n": 10,
-      "hit_rate": 0.4,
-      "brier": 0.5716,
-      "rps": 0.1301
+      "hit_rate": 0.2,
+      "brier": 0.7199,
+      "rps": 0.1804
     },
     "瑞超": {
       "n": 9,
       "hit_rate": 0.5556,
       "brier": 0.59,
       "rps": 0.2268
-    },
-    "美职": {
-      "n": 9,
-      "hit_rate": 0.2222,
-      "brier": 0.6975,
-      "rps": 0.1833
     },
     "日乙": {
       "n": 8,
