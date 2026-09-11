@@ -3279,6 +3279,10 @@
       "best_edge": -0.0728,
       "recommended": false
     },
-    "direction_low_confidence": true
+    "direction_low_confidence": true,
+    "actual_result": "0-2",
+    "actual_home_score": 0,
+    "actual_away_score": 2,
+    "direction_correct": true
   }
 ]
