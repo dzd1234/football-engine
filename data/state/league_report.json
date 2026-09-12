@@ -2,7 +2,7 @@
   "n_leagues": 36,
   "n_matches": 660,
   "external_added": 29,
-  "generated_at": "2026-09-12T00:17:15.869984",
+  "generated_at": "2026-09-12T16:19:54.138792",
   "leagues": [
     {
       "league": "欧冠",
@@ -75,9 +75,9 @@
     {
       "league": "K1联赛",
       "n": 39,
-      "hit_rate": 0.4872,
+      "hit_rate": 0.4615,
       "avg_odds": 2.032,
-      "roi": 0.0421,
+      "roi": 0.0149,
       "avg_confidence": 0.1883,
       "verdict": "观望",
       "recent_n": 5,
