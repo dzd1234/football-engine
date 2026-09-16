@@ -1096,10 +1096,10 @@
     "rest_days": 3
   },
   "阿森纳": {
-    "elo": 2073.8,
-    "attack": 0.9975,
-    "defense": 0.364,
-    "form": 0.9659,
+    "elo": 2075.5,
+    "attack": 1.041,
+    "defense": 0.3989,
+    "form": 0.9761,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -3016,10 +3016,10 @@
     "rest_days": 3
   },
   "米堡": {
-    "elo": 1396.3,
-    "attack": 0.6874,
-    "defense": 1.37,
-    "form": -0.4605,
+    "elo": 1396.8,
+    "attack": 0.6907,
+    "defense": 1.3068,
+    "form": -0.3223,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -3560,10 +3560,10 @@
     "rest_days": 3
   },
   "伊普斯": {
-    "elo": 1402.0,
-    "attack": 0.7066,
-    "defense": 1.5981,
-    "form": -0.8182,
+    "elo": 1400.3,
+    "attack": 0.7081,
+    "defense": 1.583,
+    "form": -0.8727,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -5808,10 +5808,10 @@
     "rest_days": 3
   },
   "阿布艾因": {
-    "elo": 1437.4,
-    "attack": 1.0536,
-    "defense": 1.6521,
-    "form": -0.2294,
+    "elo": 1491.4,
+    "attack": 1.0916,
+    "defense": 1.491,
+    "form": 0.1394,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -9496,10 +9496,10 @@
     "rest_days": 3
   },
   "米尔沃尔": {
-    "elo": 1472.9,
-    "attack": 0.8456,
-    "defense": 0.8549,
-    "form": -0.063,
+    "elo": 1472.4,
+    "attack": 0.8335,
+    "defense": 0.8419,
+    "form": -0.0441,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -10720,9 +10720,9 @@
     "rest_days": 3
   },
   "柔佛": {
-    "elo": 1497.0,
-    "attack": 0.9377,
-    "defense": 0.9377,
+    "elo": 1494.2,
+    "attack": 0.8815,
+    "defense": 0.8815,
     "form": 0.0,
     "injury": 0.0,
     "rest_days": 3
@@ -10732,6 +10732,22 @@
     "attack": 0.9377,
     "defense": 0.9377,
     "form": 0.0,
+    "injury": 0.0,
+    "rest_days": 3
+  },
+  "布里兰": {
+    "elo": 1502.8,
+    "attack": 0.9377,
+    "defense": 0.9377,
+    "form": 0.0,
+    "injury": 0.0,
+    "rest_days": 3
+  },
+  "利雅胜利": {
+    "elo": 1446.0,
+    "attack": 0.9025,
+    "defense": 1.0432,
+    "form": -0.3,
     "injury": 0.0,
     "rest_days": 3
   }
