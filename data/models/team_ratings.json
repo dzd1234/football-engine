@@ -1936,10 +1936,10 @@
     "rest_days": 3
   },
   "比利亚雷亚尔": {
-    "elo": 1674.9,
-    "attack": 1.0473,
-    "defense": 0.9258,
-    "form": -0.2168,
+    "elo": 1690.5,
+    "attack": 1.0507,
+    "defense": 0.8707,
+    "form": 0.1482,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -2256,10 +2256,10 @@
     "rest_days": 3
   },
   "莱万特": {
-    "elo": 1567.3,
-    "attack": 0.8099,
-    "defense": 0.9722,
-    "form": -0.2016,
+    "elo": 1551.7,
+    "attack": 0.7661,
+    "defense": 0.983,
+    "form": -0.4411,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -10232,10 +10232,10 @@
     "rest_days": 3
   },
   "拉科鲁尼亚": {
-    "elo": 1538.2,
-    "attack": 0.7801,
-    "defense": 0.7349,
-    "form": -0.0501,
+    "elo": 1537.8,
+    "attack": 0.7392,
+    "defense": 0.6984,
+    "form": -0.0351,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -10280,10 +10280,10 @@
     "rest_days": 3
   },
   "贝蒂斯": {
-    "elo": 1595.2,
-    "attack": 0.785,
-    "defense": 0.6935,
-    "form": 0.7735,
+    "elo": 1595.6,
+    "attack": 0.7436,
+    "defense": 0.6611,
+    "form": 0.5414,
     "injury": 0.0,
     "rest_days": 3
   },
