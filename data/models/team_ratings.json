@@ -184,10 +184,10 @@
     "rest_days": 3
   },
   "美国": {
-    "elo": 1786.6,
-    "attack": 1.3844,
-    "defense": 1.0124,
-    "form": 0.2359,
+    "elo": 1799.4,
+    "attack": 1.2846,
+    "defense": 0.9137,
+    "form": 0.4651,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -256,10 +256,10 @@
     "rest_days": 3
   },
   "中国": {
-    "elo": 1345.0,
-    "attack": 0.4512,
-    "defense": 1.1567,
-    "form": -0.51,
+    "elo": 1333.1,
+    "attack": 0.4072,
+    "defense": 1.0791,
+    "form": -0.657,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -2736,10 +2736,10 @@
     "rest_days": 3
   },
   "苏格兰": {
-    "elo": 1640.0,
-    "attack": 0.8514,
-    "defense": 0.8717,
-    "form": -0.5919,
+    "elo": 1618.8,
+    "attack": 0.8036,
+    "defense": 0.8571,
+    "form": -0.7143,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -2792,10 +2792,10 @@
     "rest_days": 3
   },
   "法罗群岛": {
-    "elo": 1232.7,
-    "attack": 0.3897,
-    "defense": 1.3012,
-    "form": -0.2577,
+    "elo": 1244.4,
+    "attack": 0.4221,
+    "defense": 1.2447,
+    "form": -0.1804,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -2832,10 +2832,10 @@
     "rest_days": 3
   },
   "斯洛文尼": {
-    "elo": 1588.1,
-    "attack": 0.7869,
-    "defense": 0.7328,
-    "form": 0.0832,
+    "elo": 1609.3,
+    "attack": 0.7805,
+    "defense": 0.6965,
+    "form": 0.3582,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -3392,10 +3392,10 @@
     "rest_days": 3
   },
   "加拿大": {
-    "elo": 1781.7,
-    "attack": 1.099,
-    "defense": 0.6434,
-    "form": -0.0839,
+    "elo": 1768.9,
+    "attack": 0.9918,
+    "defense": 0.6159,
+    "form": -0.3587,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -11312,10 +11312,10 @@
     "rest_days": 3
   },
   "哈萨克": {
-    "elo": 1491.0,
-    "attack": 0.9377,
-    "defense": 0.9729,
-    "form": -0.3,
+    "elo": 1479.3,
+    "attack": 0.9166,
+    "defense": 0.9484,
+    "form": -0.21,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -11324,6 +11324,14 @@
     "attack": 0.9025,
     "defense": 0.9729,
     "form": -0.3,
+    "injury": 0.0,
+    "rest_days": 3
+  },
+  "塔吉克": {
+    "elo": 1511.9,
+    "attack": 0.9377,
+    "defense": 0.9025,
+    "form": 0.3,
     "injury": 0.0,
     "rest_days": 3
   }
